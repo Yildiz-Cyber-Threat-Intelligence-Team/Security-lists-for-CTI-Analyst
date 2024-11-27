@@ -1,2 +1,2 @@
-# Security-lists-for-CTI-Analyst
+# YILDIZCTI FRAMEWORK
 Yıldız CTI
