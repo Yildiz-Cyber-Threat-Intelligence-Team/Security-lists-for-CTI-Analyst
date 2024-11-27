@@ -1,2 +1,2 @@
-# YILDIZCTI FRAMEWORK
+# YıldızCTI Framework
 Yıldız CTI
