@@ -263,5 +263,30 @@ Siber tehdit istihbaratı, siber güvenlik topluluğu için kritik öneme sahip 
 | **RansomFeedNews**   | Ransomware ve fidye yazılımı saldırılarıyla ilgili haber ve analiz içerikleri sağlar. |
 | **TheCyberThreatHunting** | Tehdit avcılığı ve siber güvenlik araştırmalarına dair derinlemesine haberler sunar. |
 
+## Telegram Hacking/Stealer/Log Channels
+
+Telegram, birçok hacking ve siber suç grubu tarafından kullanılan popüler bir iletişim platformudur. Aşağıdaki liste, Telegram üzerinde siber güvenlik tehditleri ve veritabanı ihlalleri ile ilgili paylaşımlar yapan bazı hacking, stealer ve log kanallarını içermektedir. Bu tür grupların faaliyetleri genellikle yasal olmayan veya etik dışıdır, bu nedenle sadece eğitim amaçlı incelenmesi önemlidir.
+
+### Kullanım Alanları:
+- Hacking, stealer ve log gruplarını takip etmek
+- Veritabanı ihlalleri, sızıntılar ve şüpheli aktiviteler hakkında bilgi edinmek
+- Siber suçluların faaliyetlerini anlamak ve analiz etmek
+- Tehdit istihbaratı toplamak
+
+### Öne Çıkan Telegram Kanalları:
+
+| Kanal Adı       | Açıklama                                           |
+|-----------------|----------------------------------------------------|
+| **LeakDBMS**    | Veritabanı sızıntıları ve hesap bilgilerini paylaşan bir Telegram kanalı. |
+| **LB**          | Hacking araçları, şifreler ve diğer sızıntılarla ilgili içerikler paylaşan bir kanal. |
+| **LeakedSource**| Çeşitli veritabanı sızıntılarını ve hacklenmiş hesapları yayınlayan bir kanal. |
+| **EasyLogs**    | Hacking araçları ve çalınan log verileriyle ilgili içerikler sunan bir kanal. |
+| **Suboxo**      | Çeşitli log sızıntıları ve şifreler üzerinde paylaşımlar yapan bir Telegram kanalı. |
+| **CyberLogs**   | Hacking ve güvenlik açıklarıyla ilgili log verilerini paylaşan bir kanal. |
+| **DragonForce** | Siber güvenlik gruplarına ait bilgi ve log sızıntıları sağlayan bir kanal. |
+| **NullLeak**    | Çalınan hesap bilgileri ve log dosyalarıyla ilgili içerikler paylaşan bir kanal. |
+| **LeamExploit** | Exploitler ve hacking araçlarıyla ilgili bilgiler sunan bir kanal. |
+
+
 
 
