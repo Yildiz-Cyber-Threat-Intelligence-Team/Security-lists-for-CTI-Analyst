@@ -63,7 +63,7 @@ Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmı�
 
 Sahtecilik hizmetleri, dark web ve deep web üzerinde yasa dışı olarak sahte belgeler, kimlikler ve lisanslar sağlayan platformları içermektedir. Bu tür hizmetler genellikle dolandırıcılık faaliyetleri, sahte pasaport ve kimlik belgeleri oluşturma gibi yasadışı işlemler için kullanılır.
 
-## 🔍 Kullanım Alanları:
+##  Kullanım Alanları:
 - Sahte pasaport ve kimlik belgeleri oluşturma  
 - Sahte lisanslar ve sertifikalar sağlama  
 - Kimlik hırsızlığı ve dolandırıcılık faaliyetleri  
