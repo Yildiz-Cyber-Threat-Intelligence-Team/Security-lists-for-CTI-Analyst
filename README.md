@@ -233,15 +233,15 @@ Siber güvenlik alanında kullanılan araçlar, tehdit istihbaratını toplamak,
 
 | Araç Adı              | Açıklama                                           |
 |-----------------------|----------------------------------------------------|
-| **Misp-Project**       | Açık kaynaklı tehdit paylaşım platformu, siber güvenlik tehditlerini paylaşmak ve analiz etmek için kullanılır. |
-| **Greynoise**          | Gerçek zamanlı tehdit verisi sağlar ve ağ trafiğindeki anormallikleri tespit eder. |
-| **AlienVault**         | Tehdit istihbaratına dayalı güvenlik yönetim sistemi ve saldırı tespiti için kullanılan bir araçtır. |
-| **SilentPush**         | Ransomware saldırıları ve diğer kötü amaçlı yazılımları tespit etmek için kullanılan bir araçtır. |
-| **CytoSpace**          | Tehdit analizi ve görselleştirme aracı, ağda bulunan potansiyel tehditleri görsel olarak analiz etmeye yardımcı olur. |
-| **Graphistry**         | Görselleştirilmiş tehdit analizi ve ağ analizi yapabilen bir araçtır. |
-| **RansomWare Tools (GitHub)** | Ransomware saldırıları ve zararlı yazılımlara karşı çeşitli araçlar ve çözümler içeren GitHub reposudur. |
-| **ThreatIngestor (GitHub)** | Tehdit verilerini toplamak ve işlemek için kullanılan açık kaynaklı bir araçtır. |
-| **ThreatDragon (GitHub)** | Tehdit modelleme ve analiz için açık kaynaklı bir yazılımdır, tehditleri görselleştirmeye yardımcı olur. |
+| [**Misp-Project**](https://www.misp-project.org/)       | Açık kaynaklı tehdit paylaşım platformu, siber güvenlik tehditlerini paylaşmak ve analiz etmek için kullanılır. |
+| [**Greynoise**](https://www.greynoise.io/)         | Gerçek zamanlı tehdit verisi sağlar ve ağ trafiğindeki anormallikleri tespit eder. |
+| [**AlienVault**  ](https://otx.alienvault.com/)      | Tehdit istihbaratına dayalı güvenlik yönetim sistemi ve saldırı tespiti için kullanılan bir araçtır. |
+| [**SilentPush**  ](https://web.telegram.org/k/#@easylogs1)       | Ransomware saldırıları ve diğer kötü amaçlı yazılımları tespit etmek için kullanılan bir araçtır. |
+| [**CytoSpace**   ](https://cytoscape.org/)       | Tehdit analizi ve görselleştirme aracı, ağda bulunan potansiyel tehditleri görsel olarak analiz etmeye yardımcı olur. |
+| [**Graphistry** ](https://www.graphistry.com/)        | Görselleştirilmiş tehdit analizi ve ağ analizi yapabilen bir araçtır. |
+| [**RansomWare Tools (GitHub)** ](https://github.com/BushidoUK/Ransomware-Tool-Matrix) | Ransomware saldırıları ve zararlı yazılımlara karşı çeşitli araçlar ve çözümler içeren GitHub reposudur. |
+| [**ThreatIngestor (GitHub)**](https://github.com/InQuest/ThreatIngestor) | Tehdit verilerini toplamak ve işlemek için kullanılan açık kaynaklı bir araçtır. |
+| [**ThreatDragon (GitHub)**](https://github.com/OWASP/threat-dragon) | Tehdit modelleme ve analiz için açık kaynaklı bir yazılımdır, tehditleri görselleştirmeye yardımcı olur. |
 
 ## Twitter
 
@@ -251,11 +251,11 @@ Twitter, siber güvenlik topluluğu tarafından tehdit istihbaratı ve siber gü
 
 | Hesap Adı            | Açıklama                                           |
 |----------------------|----------------------------------------------------|
-| **ThedFirReport**     | Siber güvenlik ve tehdit istihbaratı raporları sunan bir hesap. |
-| **N4hualH**           | Hacking ve siber saldırılarla ilgili güncel bilgiler paylaşan bir hesap. |
-| **Akaclandestine**    | Malware ve güvenlik tehditleri hakkında paylaşımlar yapan bir hesap. |
-| **Executemalware**    | Malware keşifleri, güvenlik açıkları ve exploitler üzerine paylaşımlar yapan bir hesap. |
-| **Crep1x**            | Malware analizi ve siber güvenlik araştırmalarıyla ilgili içerikler sunan bir hesap. |
-| **Root0ne**           | Siber güvenlik, hacking ve malware analizleri konusunda paylaşım yapan bir hesap. |
+| [**ThedFirReport**](https://x.com/thedfirreport)     | Siber güvenlik ve tehdit istihbaratı raporları sunan bir hesap. |
+| [**N4hualH**](https://x.com/N4hualH)           | Hacking ve siber saldırılarla ilgili güncel bilgiler paylaşan bir hesap. |
+| [**Akaclandestine**](https://x.com/akaclandestine)    | Malware ve güvenlik tehditleri hakkında paylaşımlar yapan bir hesap. |
+| [**Executemalware**](https://x.com/executemalware)    | Malware keşifleri, güvenlik açıkları ve exploitler üzerine paylaşımlar yapan bir hesap. |
+| [**Crep1x**](https://x.com/crep1x)            | Malware analizi ve siber güvenlik araştırmalarıyla ilgili içerikler sunan bir hesap. |
+| [**Root0ne**](https://x.com/Root0ne)           | Siber güvenlik, hacking ve malware analizleri konusunda paylaşım yapan bir hesap. |
 
 
