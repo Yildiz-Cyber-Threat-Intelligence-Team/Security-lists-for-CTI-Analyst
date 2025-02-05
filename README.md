@@ -113,6 +113,8 @@ Encode/Decode araçları, verileri farklı kodlama yöntemleriyle şifrelemek ve
 
 Dark Web, geleneksel arama motorları tarafından indekslenmeyen ve genellikle anonim ağlar üzerinden erişilebilen web sitelerinden oluşur. Bu platformlar, güvenlik araştırmacıları, gazeteciler ve istihbarat analistleri için önemli bilgiler içerebilir. Siber tehdit istihbaratı toplamak, dark web üzerindeki güvenlik tehditlerini izlemek ve anonim forumlar ile kaynaklardan bilgi edinmek için kullanılabilir.
 
+![2](https://github.com/user-attachments/assets/2a19ded9-fe77-4a02-8f89-81acd1fdea32)
+
 ###  Öne Çıkan Araçlar:  
 
 | Araç Adı | Açıklama |  
@@ -121,7 +123,7 @@ Dark Web, geleneksel arama motorları tarafından indekslenmeyen ve genellikle a
 | **Wiki** | Dark Web hakkında bilgilerin toplandığı, .onion sitelerinin listelendiği ve kullanıcıların çeşitli kaynaklara erişebildiği platformlardır. Örneğin, Hidden Wiki gibi rehberler Dark Web’de sıkça kullanılan siteleri içerir. |  
 | **Search Engines** | Dark Web içeriğinde arama yapmaya olanak tanıyan özel arama motorlarıdır. Örneğin, Ahmia ve OnionLand gibi arama motorları, Tor ağındaki siteleri indeksleyerek erişimi kolaylaştırır. |  
 
-![2](https://github.com/user-attachments/assets/2a19ded9-fe77-4a02-8f89-81acd1fdea32)
+
 ![3](https://github.com/user-attachments/assets/6b491bd5-5e9f-48bb-9169-e933ab0fe615)
 
 
