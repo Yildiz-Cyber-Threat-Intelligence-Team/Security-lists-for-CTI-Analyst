@@ -79,3 +79,26 @@ Sahtecilik hizmetleri, dark web ve deep web üzerinde yasa dışı olarak sahte 
 | **HiddenPass** | Sahte kimlik ve pasaport hizmetleri sağlayan bir başka platformdur. |
 | **Onion Identity Services** | Sahte kimlik ve pasaport düzenlemeleri yapan bir dark web hizmetidir. |
 
+
+# CVE Sites (Zafiyet Veritabanları)
+
+CVE (Common Vulnerabilities and Exposures) siteleri, siber güvenlik açıklarını takip etmek ve analiz etmek için kullanılan platformlardır. Bu siteler, dünya çapında keşfedilen güvenlik açıklarını raporlar, belgeler ve sınıflandırır.
+
+##  Kullanım Alanları:
+- Yazılım ve donanım güvenlik açıklarını takip etmek  
+- Siber güvenlik araştırmalarını desteklemek  
+- Açıklara karşı yamaları ve çözümleri incelemek  
+- Güvenlik testleri ve pentest süreçlerini optimize etmek  
+
+##  Öne Çıkan Platformlar:
+
+| Platform Adı         | Açıklama |
+|----------------------|---------|
+| **CVE.org** | Resmi CVE (Common Vulnerabilities and Exposures) veritabanıdır. Güvenlik açıklarının standartlaştırılmış bir şekilde listelenmesini sağlar. |
+| **Exploit-db** | Açıklara karşı kullanılabilecek exploit kodlarını içeren geniş bir arşiv sunar. Penetrasyon testleri için önemli bir kaynaktır. |
+| **Vuln-cirl** | Güvenlik açıklarını sınıflandıran ve analiz eden bir platformdur. CVE raporlarını detaylı olarak sunar. |
+| **CVE-Search Github** | CVE verilerini hızlı bir şekilde sorgulamak için geliştirilmiş bir açık kaynak projedir. |
+| **Tenable** | Güvenlik açıklarını yönetmek ve sistemleri korumak için ticari çözümler sunan bir şirkettir. Nessus gibi popüler tarama araçlarıyla bilinir. |
+| **CVE-details** | CVE açıklarını detaylı istatistiklerle sunan bir platformdur. Açıklarla ilgili teknik veriler ve etkilenen yazılımlar hakkında bilgi verir. |
+| **Rapid7** | Siber güvenlik araştırmaları ve açık tespitinde kullanılan ticari bir platformdur. Metasploit çerçevesinin geliştiricisidir. |
+| **Vuldb** | Güvenlik açıkları hakkında topluluk destekli bilgiler sağlayan bir veritabanıdır. Açıkların etkileri ve çözümleri hakkında detaylı analizler sunar. |
