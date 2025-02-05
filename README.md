@@ -142,3 +142,81 @@ Encode/Decode araçları, verileri farklı kodlama yöntemleriyle şifrelemek ve
 | **Cacheslut** | Web tarayıcı önbellekleriyle etkileşim sağlayan, URL tabanlı kodlama ve çözme araçları sunan bir platformdur. |
 | **Barcodes (QR)** | QR kodları ve diğer barkod türlerini oluşturmak ve çözmek için kullanılan bir araçtır. |
 | **Base64** | Metin ve veri kodlamada yaygın olarak kullanılan Base64 formatını şifrelemek ve çözmek için kullanılan bir platformdur. |
+
+##  Dark Web  
+
+Dark Web, geleneksel arama motorları tarafından indekslenmeyen ve genellikle anonim ağlar üzerinden erişilebilen web sitelerinden oluşur. Bu platformlar, güvenlik araştırmacıları, gazeteciler ve istihbarat analistleri için önemli bilgiler içerebilir.  
+
+###  Kullanım Alanları:  
+- **Siber tehdit istihbaratı toplamak**  
+- **Dark Web üzerindeki güvenlik tehditlerini izlemek**  
+- **Anonim forumlar ve kaynaklardan bilgi edinmek**  
+
+###  Öne Çıkan Araçlar:  
+
+| Araç Adı | Açıklama |  
+|----------|---------|  
+| **Hacking Forums** | Dark Web üzerinde bulunan, siber güvenlik ve hacking ile ilgili tartışmaların yapıldığı forumlardır. Kullanıcılar genellikle güvenlik açıkları, zararlı yazılımlar ve hacking teknikleri hakkında bilgi paylaşır. |  
+| **Wiki** | Dark Web hakkında bilgilerin toplandığı, .onion sitelerinin listelendiği ve kullanıcıların çeşitli kaynaklara erişebildiği platformlardır. Örneğin, Hidden Wiki gibi rehberler Dark Web’de sıkça kullanılan siteleri içerir. |  
+| **Search Engines** | Dark Web içeriğinde arama yapmaya olanak tanıyan özel arama motorlarıdır. Örneğin, Ahmia ve OnionLand gibi arama motorları, Tor ağındaki siteleri indeksleyerek erişimi kolaylaştırır. |  
+
+##  Deep Web  
+
+Deep Web, genel arama motorları tarafından indekslenmeyen ancak yasal ve özel bilgilere erişim sağlayan web içeriklerinden oluşur. Veritabanları, özel forumlar ve üyelik gerektiren web siteleri bu kategoriye girer.  
+
+###  Kullanım Alanları:  
+- **Özel araştırmalar ve veri analizi**  
+- **Siber tehditler ve güvenlik olayları hakkında bilgi edinme**  
+- **Deep Web üzerindeki özel forumları takip etme**  
+
+###  Öne Çıkan Araçlar:  
+
+| Araç Adı | Açıklama |  
+|----------|---------|  
+| **Forums** | Deep Web üzerinde yer alan, genellikle kayıt veya özel erişim gerektiren tartışma platformlarıdır. Kullanıcılar siber güvenlik, hacking, tehdit istihbaratı ve çeşitli teknik konular hakkında bilgi paylaşır. Bu forumlar bazen kapalı topluluklara özel olabilir. |  
+
+## IP / Geolocation  
+
+IP ve konum belirleme araçları, internet üzerindeki cihazların IP adreslerini analiz ederek coğrafi konumlarını tespit etmeye yardımcı olur. Siber güvenlik uzmanları, tehdit istihbaratı analistleri ve ağ yöneticileri tarafından sıklıkla kullanılır.  
+
+### Kullanım Alanları:  
+- **Tehdit aktörlerinin IP analizini yapmak**  
+- **Şüpheli ağ etkinliklerini izlemek**  
+- **IP adresi üzerinden coğrafi konum tespiti yapmak**  
+- **VPN veya proxy kullanımını belirlemek**  
+
+### Öne Çıkan Araçlar:  
+
+| Araç Adı | Açıklama |  
+|----------|---------|  
+| **SurfShark** | VPN ve IP gizleme hizmeti sunarak çevrimiçi gizliliği artırır. |  
+| **Geolocation** | IP adreslerinin fiziksel konumunu belirlemek için kullanılan genel bir coğrafi konumlandırma hizmetidir. |  
+| **LiveIPMap** | Dünya genelinde gerçek zamanlı IP adresi ve trafik izleme sağlayan bir araçtır. |  
+| **IpAddressMy** | IP adresinizi ve bağlantınızla ilgili temel bilgileri gösterir. |  
+| **WhatsMyIp** | IP adresinizi, internet servis sağlayıcınızı ve diğer ağ bilgilerini görüntüler. |  
+| **IpWhois** | Belirli bir IP adresinin kime ait olduğunu ve hangi ağda barındığını belirlemek için Whois sorgusu yapan bir araçtır. |  
+| **IpLocation.io** | IP adreslerinden konum, ISP ve bağlantı detaylarını çıkarmaya yarayan bir analiz platformudur. |  
+
+## Phishing Araçları
+
+Phishing, kötü niyetli kişilerin sahte web siteleri ve e-postalarla kullanıcıları kandırarak kişisel bilgilerini çalmaya çalıştığı yaygın bir siber saldırı türüdür. Bu araçlar, phishing saldırılarını tespit etmek, analiz etmek ve önlemek için faydalıdır. Siber güvenlik uzmanları ve tehdit istihbaratı analistleri tarafından sıklıkla kullanılır.
+
+### Kullanım Alanları:
+- Phishing e-posta analizini yapmak
+- Şüpheli URL'leri tespit etmek
+- Gerçek zamanlı phishing tehditlerini izlemek
+- Phishing saldırılarına karşı savunma geliştirmek
+
+### Öne Çıkan Araçlar:
+
+| Araç Adı       | Açıklama                                           |
+|----------------|----------------------------------------------------|
+| **StalkPish**  | Phishing e-posta analizi ve URL güvenliği aracı.   |
+| **UrlDna**     | Phishing URL'lerini analiz etmek için kullanılan bir araç. |
+| **openPhish**  | Gerçek zamanlı phishing tehditlerini izler ve raporlar. |
+| **PhishingArmy**| Phishing saldırıları ve URL güvenliği veritabanı.  |
+| **PhishCheckMe**| Phishing URL'lerini tespit etmek için bir doğrulama aracı. |
+| **CloudFlare** | Web güvenliği ve DDoS koruması sağlayan servis.    |
+| **IpQuality**  | IP tabanlı phishing ve dolandırıcılık veritabanı.  |
+
+
