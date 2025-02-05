@@ -23,7 +23,7 @@ Bu proje, Siber Tehdit İstihbaratı (CTI - Cyber Threat Intelligence) kapsamın
 
 
 
-Archives (Arşiv Kaynakları)
+# Archives (Arşiv Kaynakları)
 Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmış veya silinmiş verileri geri getirmek için kullanılan hizmetlerdir. Bu tür araçlar, tehdit istihbaratı analizinde kritik rol oynar çünkü saldırganların veya kötü niyetli içeriklerin önceki sürümlerini görmek, saldırı vektörlerini anlamak ve siber tehdit trendlerini takip etmek için gereklidir.
 
 ## Kullanım Alanları:
