@@ -24,7 +24,7 @@ Bu proje, Siber Tehdit İstihbaratı (CTI - Cyber Threat Intelligence) kapsamın
 
 
 ## Archives (Arşiv Kaynakları)
-Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmış veya silinmiş verileri geri getirmek için kullanılan hizmetlerdir. Bu tür araçlar, tehdit istihbaratı analizinde kritik rol oynar çünkü saldırganların veya kötü niyetli içeriklerin önceki sürümlerini görmek, saldırı vektörlerini anlamak ve siber tehdit trendlerini takip etmek için gereklidir.Silinmiş veya değiştirilen web sayfalarını incelemek, geçmiş tehdit raporlarını geri yüklemek, siber suçluların eski faaliyetlerini analiz etmek ve zaman içinde güvenlik açıklarının nasıl değiştiğini görmek için kullanılabilir.
+Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmış veya silinmiş verileri geri getirmek için kullanılan hizmetlerdir. Bu tür araçlar, tehdit istihbaratı analizinde kritik rol oynar çünkü saldırganların veya kötü niyetli içeriklerin önceki sürümlerini görmek, saldırı vektörlerini anlamak ve siber tehdit trendlerini takip etmek için gereklidir. Silinmiş veya değiştirilen web sayfalarını incelemek, geçmiş tehdit raporlarını geri yüklemek, siber suçluların eski faaliyetlerini analiz etmek ve zaman içinde güvenlik açıklarının nasıl değiştiğini görmek için kullanılabilir.
 
   ### Öne Çıkan Araçlar
 
@@ -39,7 +39,7 @@ Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmı�
 
 ## Commercial Services (Ticari Hizmetler)
 
-Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmış, ücretli veya abonelik tabanlı çözümler sunan platformlardır. Bu hizmetler genellikle kurumsal düzeyde kullanılır ve gelişmiş tehdit tespiti, risk analizi, olay müdahalesi gibi konularda destek sağlar.Kurumsal tehdit istihbaratı sağlamak, risk değerlendirme ve yönetim süreçlerini optimize etmek, siber saldırılara karşı önleyici stratejiler geliştirmek ve  web ile deep web üzerindeki tehditleri takip etmek için kullanılabilir. 
+Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmış, ücretli veya abonelik tabanlı çözümler sunan platformlardır. Bu hizmetler genellikle kurumsal düzeyde kullanılır ve gelişmiş tehdit tespiti, risk analizi, olay müdahalesi gibi konularda destek sağlar. Kurumsal tehdit istihbaratı sağlamak, risk değerlendirme ve yönetim süreçlerini optimize etmek, siber saldırılara karşı önleyici stratejiler geliştirmek ve  web ile deep web üzerindeki tehditleri takip etmek için kullanılabilir. 
 
 ###  Öne Çıkan Araçlar:
 | Araç Adı         | Açıklama |
@@ -50,7 +50,7 @@ Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmı�
 
 ##  Counterfeits (Sahtecilik Hizmetleri)
 
-Sahtecilik hizmetleri,  web ve deep web üzerinde yasa dışı olarak sahte belgeler, kimlikler ve lisanslar sağlayan platformları içermektedir. Bu tür hizmetler genellikle dolandırıcılık faaliyetleri, sahte pasaport ve kimlik belgeleri oluşturma gibi yasadışı işlemler için kullanılır.Sahte pasaport ve kimlik belgeleri oluşturma, sahte lisanslar ve sertifikalar sağlama, kimlik hırsızlığı ve dolandırıcılık faaliyetleri gerçekleştirme, ve  web üzerinden yasa dışı işlemler yapma gibi faaliyetlerde kullanılabilir.  
+Sahtecilik hizmetleri,  web ve deep web üzerinde yasa dışı olarak sahte belgeler, kimlikler ve lisanslar sağlayan platformları içermektedir. Bu tür hizmetler genellikle dolandırıcılık faaliyetleri, sahte pasaport ve kimlik belgeleri oluşturma gibi yasadışı işlemler için kullanılır. Sahte pasaport ve kimlik belgeleri oluşturma, sahte lisanslar ve sertifikalar sağlama, kimlik hırsızlığı ve dolandırıcılık faaliyetleri gerçekleştirme, ve  web üzerinden yasa dışı işlemler yapma gibi faaliyetlerde kullanılabilir.  
 
 ###  Öne Çıkan Platformlar:
 
