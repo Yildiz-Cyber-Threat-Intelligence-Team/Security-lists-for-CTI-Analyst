@@ -31,14 +31,14 @@ Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmı�
 | Araç Adı          | Açıklama |
 |-------------------|---------|
 | **Wayback Machine** | Web sitelerinin geçmiş versiyonlarını arşivleyen en popüler internet arşivleme hizmetidir. |
-| **Megalodon** | Dark web ve deep web üzerindeki belirli sitelerin geçmiş sürümlerini saklayan bir arşivleme hizmetidir. |
+| **Megalodon** |  web ve deep web üzerindeki belirli sitelerin geçmiş sürümlerini saklayan bir arşivleme hizmetidir. |
 | **Ghost** | Kullanıcıların belirli web sayfalarını anonim olarak arşivleyerek geri çağırmalarını sağlayan bir araçtır. |
 | **CacheView** | Google, Bing ve diğer arama motorlarının önbelleğe aldığı sayfaları geri getirir. |
 | **Webcitation** | Akademik ve araştırma amaçlı URL’leri arşivleyen bir sistemdir. |
 
 ## Commercial Services (Ticari Hizmetler)
 
-Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmış, ücretli veya abonelik tabanlı çözümler sunan platformlardır. Bu hizmetler genellikle kurumsal düzeyde kullanılır ve gelişmiş tehdit tespiti, risk analizi, olay müdahalesi gibi konularda destek sağlar.Kurumsal tehdit istihbaratı sağlamak, risk değerlendirme ve yönetim süreçlerini optimize etmek, siber saldırılara karşı önleyici stratejiler geliştirmek ve dark web ile deep web üzerindeki tehditleri takip etmek için kullanılabilir. 
+Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmış, ücretli veya abonelik tabanlı çözümler sunan platformlardır. Bu hizmetler genellikle kurumsal düzeyde kullanılır ve gelişmiş tehdit tespiti, risk analizi, olay müdahalesi gibi konularda destek sağlar.Kurumsal tehdit istihbaratı sağlamak, risk değerlendirme ve yönetim süreçlerini optimize etmek, siber saldırılara karşı önleyici stratejiler geliştirmek ve  web ile deep web üzerindeki tehditleri takip etmek için kullanılabilir. 
 
 ###  Öne Çıkan Araçlar:
 
@@ -49,17 +49,17 @@ Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmı�
 
 ##  Counterfeits (Sahtecilik Hizmetleri)
 
-Sahtecilik hizmetleri, dark web ve deep web üzerinde yasa dışı olarak sahte belgeler, kimlikler ve lisanslar sağlayan platformları içermektedir. Bu tür hizmetler genellikle dolandırıcılık faaliyetleri, sahte pasaport ve kimlik belgeleri oluşturma gibi yasadışı işlemler için kullanılır.Sahte pasaport ve kimlik belgeleri oluşturma, sahte lisanslar ve sertifikalar sağlama, kimlik hırsızlığı ve dolandırıcılık faaliyetleri gerçekleştirme, ve dark web üzerinden yasa dışı işlemler yapma gibi faaliyetlerde kullanılabilir.  
+Sahtecilik hizmetleri,  web ve deep web üzerinde yasa dışı olarak sahte belgeler, kimlikler ve lisanslar sağlayan platformları içermektedir. Bu tür hizmetler genellikle dolandırıcılık faaliyetleri, sahte pasaport ve kimlik belgeleri oluşturma gibi yasadışı işlemler için kullanılır.Sahte pasaport ve kimlik belgeleri oluşturma, sahte lisanslar ve sertifikalar sağlama, kimlik hırsızlığı ve dolandırıcılık faaliyetleri gerçekleştirme, ve  web üzerinden yasa dışı işlemler yapma gibi faaliyetlerde kullanılabilir.  
 
 ###  Öne Çıkan Platformlar:
 
 | Platform Adı         | Açıklama |
 |----------------------|---------|
-| **Nemesis** | Dark web üzerinde sahte kimlik ve pasaport hizmetleri sağlayan bir platformdur. |
+| **Nemesis** |  web üzerinde sahte kimlik ve pasaport hizmetleri sağlayan bir platformdur. |
 | **Onion License Services** | Sahte sürücü belgesi ve lisans hizmetleri sunan bir hizmettir. |
-| **Passport Services** | Sahte pasaportların üretimi ve satışı üzerine odaklanan bir dark web hizmetidir. |
+| **Passport Services** | Sahte pasaportların üretimi ve satışı üzerine odaklanan bir  web hizmetidir. |
 | **HiddenPass** | Sahte kimlik ve pasaport hizmetleri sağlayan bir başka platformdur. |
-| **Onion Identity Services** | Sahte kimlik ve pasaport düzenlemeleri yapan bir dark web hizmetidir. |
+| **Onion Identity Services** | Sahte kimlik ve pasaport düzenlemeleri yapan bir  web hizmetidir. |
 
 
 ## CVE Sites (Zafiyet Veritabanları)
@@ -118,6 +118,10 @@ Dark Web, geleneksel arama motorları tarafından indekslenmeyen ve genellikle a
 | **Hacking Forums** | Dark Web üzerinde bulunan, siber güvenlik ve hacking ile ilgili tartışmaların yapıldığı forumlardır. Kullanıcılar genellikle güvenlik açıkları, zararlı yazılımlar ve hacking teknikleri hakkında bilgi paylaşır. |  
 | **Wiki** | Dark Web hakkında bilgilerin toplandığı, .onion sitelerinin listelendiği ve kullanıcıların çeşitli kaynaklara erişebildiği platformlardır. Örneğin, Hidden Wiki gibi rehberler Dark Web’de sıkça kullanılan siteleri içerir. |  
 | **Search Engines** | Dark Web içeriğinde arama yapmaya olanak tanıyan özel arama motorlarıdır. Örneğin, Ahmia ve OnionLand gibi arama motorları, Tor ağındaki siteleri indeksleyerek erişimi kolaylaştırır. |  
+
+![2](https://github.com/user-attachments/assets/2a19ded9-fe77-4a02-8f89-81acd1fdea32)
+![3](https://github.com/user-attachments/assets/6b491bd5-5e9f-48bb-9169-e933ab0fe615)
+
 
 ##  Deep Web  
 
