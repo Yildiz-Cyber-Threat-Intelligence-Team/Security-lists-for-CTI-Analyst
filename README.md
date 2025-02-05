@@ -34,7 +34,7 @@ Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmı�
 | [**Megalodon**](https://mega-don.com) | Web ve deep web üzerindeki belirli sitelerin geçmiş sürümlerini saklayan bir arşivleme hizmetidir. |
 | [**Ghost**](https://ghostarchive.org) | Kullanıcıların belirli web sayfalarını anonim olarak arşivleyerek geri çağırmalarını sağlayan bir araçtır. |
 | [**CacheView**](https://cacheview.com) | Google, Bing ve diğer arama motorlarının önbelleğe aldığı sayfaları geri getirir. |
-| [**Webcitation**](https://www.webcitation.org) | Akademik ve araştırma amaçlı URL’leri arşivleyen bir sistemdir. |
+| [**Webcitation**](https://webcitation.org/query) | Akademik ve araştırma amaçlı URL’leri arşivleyen bir sistemdir. |
 
 
 ## Commercial Services (Ticari Hizmetler)
