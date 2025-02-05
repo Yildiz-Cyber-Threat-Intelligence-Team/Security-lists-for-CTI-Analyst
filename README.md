@@ -56,11 +56,11 @@ Sahtecilik hizmetleri,  web ve deep web üzerinde yasa dışı olarak sahte belg
 
 | Platform Adı         | Açıklama |
 |----------------------|---------|
-| **Nemesis** |  web üzerinde sahte kimlik ve pasaport hizmetleri sağlayan bir platformdur. |
-| **Onion License Services** | Sahte sürücü belgesi ve lisans hizmetleri sunan bir hizmettir. |
-| **Passport Services** | Sahte pasaportların üretimi ve satışı üzerine odaklanan bir  web hizmetidir. |
-| **HiddenPass** | Sahte kimlik ve pasaport hizmetleri sağlayan bir başka platformdur. |
-| **Onion Identity Services** | Sahte kimlik ve pasaport düzenlemeleri yapan bir  web hizmetidir. |
+| [**Nemesis**](http://nemesis555nchzn2dogee6mlc7xxgeeshqirmh3yzn4lo5cnd4s5a4yd.onion/) | Web üzerinde sahte kimlik ve pasaport hizmetleri sağlayan bir platformdur. |
+| [**Onion License Services**](http://g2a2ddehqk4vojtmktrirfgvwe3ntz6gue6nwbv5y64lgtug7iwfj7ad.onion/) | Sahte sürücü belgesi ve lisans hizmetleri sunan bir hizmettir. |
+| [**Passport Services**](http://waoceduf7c2wci5gdnw2hkb2aiittb5gl53dz35ut4hzd72ucxnvk2qd.onion/) | Sahte pasaportların üretimi ve satışı üzerine odaklanan bir web hizmetidir. |
+| [**HiddenPass**](http://waoceduf7c2wci5gdnw2hkb2aiittb5gl53dz35ut4hzd72ucxnvk2qd.onion/) | Sahte kimlik ve pasaport hizmetleri sağlayan bir başka platformdur. |
+| [**Onion Identity Services**](http://endtovmbc5vokdpnxrhajcwgkfbkfz4wbyhbj6ueisai4prtvencheyd.onion/) | Sahte kimlik ve pasaport düzenlemeleri yapan bir web hizmetidir. |
 
 
 ## CVE Sites (Zafiyet Veritabanları)
