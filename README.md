@@ -20,3 +20,24 @@ Bu proje, Siber Tehdit İstihbaratı (CTI - Cyber Threat Intelligence) kapsamın
 | **Telegram Hacking/Stealer/Log Channels** | Telegram üzerindeki hackleme, çalıntı veri ve log paylaşım kanalları |
 | **Tools** | Siber güvenlik araçları ve analiz yazılımları |
 | **Twitter** | Twitter üzerindeki tehdit aktörleri ve bilgi sızıntıları |
+
+
+
+Archives (Arşiv Kaynakları)
+Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmış veya silinmiş verileri geri getirmek için kullanılan hizmetlerdir. Bu tür araçlar, tehdit istihbaratı analizinde kritik rol oynar çünkü saldırganların veya kötü niyetli içeriklerin önceki sürümlerini görmek, saldırı vektörlerini anlamak ve siber tehdit trendlerini takip etmek için gereklidir.
+
+## Kullanım Alanları:
+- Silinmiş veya değiştirilen web sayfalarını incelemek
+- Geçmiş tehdit raporlarını geri yüklemek
+- Siber suçluların eski faaliyetlerini analiz etmek
+- Zaman içinde güvenlik açıklarının nasıl değiştiğini görmek
+
+  ## Öne Çıkan Araçlar
+
+| Araç Adı          | Açıklama |
+|-------------------|---------|
+| **Wayback Machine** | Web sitelerinin geçmiş versiyonlarını arşivleyen en popüler internet arşivleme hizmetidir. |
+| **Megalodon** | Dark web ve deep web üzerindeki belirli sitelerin geçmiş sürümlerini saklayan bir arşivleme hizmetidir. |
+| **Ghost** | Kullanıcıların belirli web sayfalarını anonim olarak arşivleyerek geri çağırmalarını sağlayan bir araçtır. |
+| **CacheView** | Google, Bing ve diğer arama motorlarının önbelleğe aldığı sayfaları geri getirir. |
+| **Webcitation** | Akademik ve araştırma amaçlı URL’leri arşivleyen bir sistemdir. |
