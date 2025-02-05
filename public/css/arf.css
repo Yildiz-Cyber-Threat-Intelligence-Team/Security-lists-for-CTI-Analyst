@@ -1,0 +1,55 @@
+body {
+  background-image: url(/OSINT-Framework-master/public/src/white-transparent2.png);
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 40%;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica;
+  overflow: hidden;
+}
+
+#body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+#header {
+  font-size: 40px;
+  color:#ffffff;
+  font-weight: bold;
+  top: 20px;
+  text-align: center;
+}
+
+.legend {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  width: 330px;
+  font-size: 11px;
+  color: #ffffff;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  cursor: pointer;
+  fill: #00b109;
+  stroke: #000000;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 12px;
+  fill: #00b109;;
+}
+
+path.link {
+  fill: none;
+  stroke: #00f7fe;
+  stroke-width: 1px;
+}

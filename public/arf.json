@@ -1,0 +1,705 @@
+{
+  "name": "CTI Framework",
+  "type": "folder",
+  "children": [
+  {
+    "name": "Archives",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Wayback Machine",
+        "type": "url",
+        "url": "https://archive.org/"
+      },
+      {
+        "name": "Megalodon",
+        "type": "url",
+        "url": "https://megalodon.jp/"
+      },
+      {
+        "name": "Ghost",
+        "type": "url",
+        "url": "https://ghostarchive.org/"
+      },
+      {
+        "name": "Cacheview",
+        "type": "url",
+        "url": "https://cachedview.com/"
+      },
+      {
+        "name": "Webcitation",
+        "type": "url",
+        "url": "https://webcitation.org/query"
+      }]
+  },
+  {
+    "name": "Commercial Services",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Aon",
+      "type": "url",
+      "url": "https://www.aon.com/en/capabilities/cyber-resilience/cyber-threat-intelligence-services"
+    },
+    {
+      "name": "Hcl-Software",
+      "type": "url",
+      "url": "https://www.hcl-software.com/appscan/software-supply-chain-security-whitepaper?utm_source=google&utm_medium=cpc&utm_campaign=Digital-Marketing_FY25_Global_AppScan_AppScan_Evergreen_search&utm_content=714277641784&utm_term=cyber%20security&gad_source=1&gclid=CjwKCAiA3ZC6BhBaEiwAeqfvyqsY3ZdgOO2vH8zsfwUy6sKhF0LKemv--GkgOBtUgGDlrI8yKmW9KBoC32gQAvD_BwE"
+    }]
+  },
+  {
+    "name": "Counterfeits",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Nemesis",
+        "type": "url",
+        "url": "http://nemesis555nchzn2dogee6mlc7xxgeeshqirmh3yzn4lo5cnd4s5a4yd.onion/"
+      },
+      {
+        "name": "Onion Licanse Services",
+        "type": "url",
+        "url": "http://g2a2ddehqk4vojtmktrirfgvwe3ntz6gue6nwbv5y64lgtug7iwfj7ad.onion/"
+      },
+      {
+        "name": "Passport Services",
+        "type": "url",
+        "url": "http://waoceduf7c2wci5gdnw2hkb2aiittb5gl53dz35ut4hzd72ucxnvk2qd.onion/"
+      },
+      {
+        "name": "HiddenPass",
+        "type": "url",
+        "url": "http://waoceduf7c2wci5gdnw2hkb2aiittb5gl53dz35ut4hzd72ucxnvk2qd.onion/"
+      },
+      {
+        "name": "Onion Identity Services",
+        "type": "url",
+        "url": "http://endtovmbc5vokdpnxrhajcwgkfbkfz4wbyhbj6ueisai4prtvencheyd.onion/"
+      }]
+  },
+  {
+    "name": "CVE Sites",
+      "type": "folder",
+      "children": [
+      {
+        "name": "CVE.org",
+        "type": "url",
+        "url": "https://www.cve.org/"
+      },
+      {
+        "name": "Exploit-db",
+        "type": "url",
+        "url": "https://www.exploit-db.com/search"
+      },
+      {
+        "name": "Vuln-circl",
+        "type": "url",
+        "url": "https://vulnerability.circl.lu/"
+      },
+      {
+        "name": "CVE-Search Github",
+        "type": "url",
+        "url": "https://github.com/cve-search/cve-search"
+      },
+      {
+        "name": "Tenable",
+        "type": "url",
+        "url": "https://www.tenable.com/cve"
+      },
+      {
+        "name": "CVE-details",
+        "type": "url",
+        "url": "https://www.cvedetails.com/vendor-search.php"
+      },
+      {
+        "name": "Rapid7",
+        "type": "url",
+        "url": "https://www.rapid7.com/db/"
+      },
+      {
+        "name": "Vuldb",
+        "type": "url",
+        "url": "https://vuldb.com/"
+      }]
+  },
+  {
+    "name": "Defecaments",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Zone-h",
+        "type": "url",
+        "url": "https://www.zone-h.org/"
+      },
+      {
+        "name": "Mirror-h",
+        "type": "url",
+        "url": "https://mirror-h.org/"
+      },
+      {
+        "name": "Defacer-id",
+        "type": "url",
+        "url": "https://defacer.id/"
+      },
+      {
+        "name": "Attacker-work",
+        "type": "url",
+        "url": "https://attacker.work/"
+      },
+      {
+        "name": "Ownzyou",
+        "type": "url",
+        "url": "https://ownzyou.com/"
+      }]
+  },
+  {
+    "name": "Encode/Decode",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Dencode",
+        "type": "url",
+        "url": "https://dencode.com/"
+      },
+      {
+        "name": "Cyrptii(Caesar)",
+        "type": "url",
+        "url": "https://cryptii.com/pipes/caesar-cipher"
+      },
+      {
+        "name": "Cacheslut",
+        "type": "url",
+        "url": "https://www.cachesleuth.com/multidecoder/"
+      },
+      {
+        "name": "Barcodes(QR)",
+        "type": "url",
+        "url": "https://online-barcode-reader.inliteresearch.com/"
+      },
+      {
+        "name": "Base64",
+        "type": "url",
+        "url": "https://www.base64encode.org/"
+      }]
+  },
+  {
+    "name": "DarkWeb",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Hacking Forums",
+      "type": "folder",
+      "children": [
+      {
+        "name": "CyrptBB",
+        "type": "url",
+        "url": "http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/"
+      },
+      {
+        "name": "OnionForum",
+        "type": "url",
+        "url": "http://onnii6niq53gv3rvjpi7z5axkasurk2x5w5lwliep4qyeb2azagxn4qd.onion/index.php"
+      },
+      {
+        "name": "DarknetArmy",
+        "type": "url",
+        "url": "http://whois.domaintools.com/"
+      },
+      {
+        "name": "ShadowForum",
+        "type": "url",
+        "url": "http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion/"
+      },
+      {
+        "name": "DarkzoneForum",
+        "type": "url",
+        "url": "http://darkobds5j7xpsncsexzwhzaotyc4sshuiby3wtxslq5jy2mhrulnzad.onion/darkzone-forum/"
+      },
+      {
+        "name": "HiddenAnswers",
+        "type": "url",
+        "url": "http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion/"
+      },
+      {
+        "name": "XSS",
+        "type": "url",
+        "url": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/"
+      },
+      {
+        "name": "Exploit.in",
+        "type": "url",
+        "url": "https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/"
+      },
+      {
+        "name": "Defcon",
+        "type": "url",
+        "url": "https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/"
+      }]
+    },
+    {
+      "name": "Wiki",
+      "type": "folder",
+      "children": [
+        {
+        "name": "TheHiddenWiki-1",
+        "type": "url",
+        "url": "http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/"
+      },
+      {
+        "name": "TheHiddenWiki-2",
+        "type": "url",
+        "url": "http://wiki5pbx73nfvmd7lug3siudagdbbdli7ta4ed2cklux4bbd6utc5byd.onion/"
+      },
+      {
+        "name": "TheHiddenWiki-3",
+        "type": "url",
+        "url": "http://ufcbhii2osrdw4sfuf524exw375ljkrfe3j623zea352wekpicyge7ad.onion/"
+      },
+      {
+        "name": "TheHiddenWiki-4",
+        "type": "url",
+        "url": "http://z47fpq4gtu6sxjmliy4ldwvf622umlj4hmacgyw4nhu4jk4nwjsdonid.onion/"
+      },
+      {
+        "name": "TheHiddenWiki-5",
+        "type": "url",
+        "url": "http://deepmlzxkh7tpnuiv32nzzg6oxza4nvpd6b7ukujwxzgxj2f33johuqd.onion/"
+      },
+      {
+        "name": "TheHiddenWiki-6",
+        "type": "url",
+        "url": "http://btcw3wabdz3zmt7f6k37k7km5ll6gom2kwf5hxpzd7djuqrhsdhtodqd.onion/"
+      },
+      {
+        "name": "TheHiddenWiki-7",
+        "type": "url",
+        "url": "http://thkdqidwkss3wntyjsd4uyy3i25tiu6hkogd62hd5cxr4ep6kpftwuyd.onion/"
+      },
+      {
+        "name": "TheHiddenWiki-8",
+        "type": "url",
+        "url": "http://trulv5o5ovg3hajltyr2wypzqrrtnkhcg4trstghtebvnrmxwmytdrad.onion/"
+      },
+      {
+        "name": "TheHiddenWiki-9",
+        "type": "url",
+        "url": "https://github.com/davidpepper/fierce-domain-scanner"
+      },
+      {
+        "name": "TheHiddenWiki-10",
+        "type": "url",
+        "url": "http://w3xgyeap6xgxywoisrvrymjqp2yu36mmwxorakgxwvo2qxoiccygosyd.onion/"
+      }]
+    },
+    {
+      "name": "Search-Engines",
+      "type": "folder",
+      "children": [
+      {
+        "name": "JustDir",
+        "type": "url",
+        "url": "http://justdirs5iebdkegiwbp3k6vwgwyr5mce7pztld23hlluy22ox4r3iad.onion/"
+      },
+      {
+        "name": "Onion-Land",
+        "type": "url",
+        "url": "http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/"
+      },
+      {
+        "name": "Meta-Ger",
+        "type": "url",
+        "url": "http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion/"
+      },
+      {
+        "name": "TorDex",
+        "type": "url",
+        "url": "http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion/"
+      },
+      {
+        "name": "OnionIndex",
+        "type": "url",
+        "url": "http://oniondxjxs2mzjkbz7ldlflenh6huksestjsisc3usxht3wqgk6a62yd.onion/"
+      },
+      {
+        "name": "OnionSearchEngine",
+        "type": "url",
+        "url": "http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion/"
+      },
+      {
+        "name": "Tornet",
+        "type": "url",
+        "url": "http://tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion/"
+      },
+      {
+        "name": "Excavator",
+        "type": "url",
+        "url": "http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/"
+      },
+      {
+        "name": "Tor66",
+        "type": "url",
+        "url": "http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/"
+      },
+      {
+        "name": "TheDeepSearch",
+        "type": "url",
+        "url": "http://searchgf7gdtauh7bhnbyed4ivxqmuoat3nm6zfrg3ymkq6mtnpye3ad.onion/"
+      },
+      {
+        "name": "DarkHunt",
+        "type": "url",
+        "url": "http://darkhuntxyxutk3cda4eogyvbcdcmsijv4i2dwtkfoeb6ggwzz7ke3qd.onion/"
+      }]
+    }]
+  },
+  {
+    "name": "DeepWeb",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Forums",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Leakbase.io",
+        "type": "url",
+        "url": "https://leakbase.io/"
+      },
+      {
+        "name": "BreachForum",
+        "type": "url",
+        "url": "https://breachforums.st/"
+      },
+      {
+        "name": "DarknetArmy",
+        "type": "url",
+        "url": "https://darknetarmy.com/"
+      },
+      {
+        "name": "CyberNulled",
+        "type": "url",
+        "url": "https://cybernulled.com/"
+      },
+      {
+        "name": "Hydra",
+        "type": "url",
+        "url": "https://hydraforums.io/"
+      },
+      {
+        "name": "Cracked.io",
+        "type": "url",
+        "url": "https://cracked.io/"
+      },
+      {
+        "name": "ShieldForum",
+        "type": "url",
+        "url": "https://shieldforum.net/"
+      },
+      {
+        "name": "BlackHatWorld",
+        "type": "url",
+        "url": "https://www.blackhatworld.com/"
+      },
+      {
+        "name": "İllegalz",
+        "type": "url",
+        "url": "https://illegalz.org/"
+      }]
+    }]
+  },
+  {
+    "name": "IP / Geolocation",
+    "type": "folder",
+    "children": [
+      {
+        "name": "SurfShark",
+        "type": "url",
+        "url": "https://surfshark.com/tr/what-is-my-ip"
+      },
+      {
+        "name": "Geolocation",
+        "type": "url",
+        "url": "https://www.geolocation.com/"
+      },
+      {
+        "name": "LiveIPMap",
+        "type": "url",
+        "url": "https://www.liveipmap.com/"
+      },
+      {
+        "name": "IpAdressMy",
+        "type": "url",
+        "url": "https://www.ipaddress.my/"
+      },
+      {
+        "name": "WhatsMyIP",
+        "type": "url",
+        "url": "https://www.whatismyip.com/"
+      },
+      {
+        "name": "IpWhois",
+        "type": "url",
+        "url": "https://ipwhois.io/"
+      },
+      {
+        "name": "IpLocation.io",
+        "type": "url",
+        "url": "https://iplocation.io/"
+      }]
+  },
+  {
+    "name": "Phising",
+    "type": "folder",
+    "children": [
+      {
+        "name": "StalkPish",
+        "type": "url",
+        "url": "https://www.stalkphish.io/"
+      },
+      {
+        "name": "UrlDna",
+        "type": "url",
+        "url": "https://urldna.io/"
+      },
+      {
+        "name": "openPhish",
+        "type": "url",
+        "url": "https://openphish.com/"
+      },
+      {
+        "name": "PhisingArmy",
+        "type": "url",
+        "url": "https://phishing.army/"
+      },
+      {
+        "name": "PhishCheckMe",
+        "type": "url",
+        "url": "https://phishcheck.me/"
+      },
+      {
+        "name": "CloudFlare",
+        "type": "url",
+        "url": "https://radar.cloudflare.com/scan"
+      },
+      {
+        "name": "IpQuality",
+        "type": "url",
+        "url": "https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner"
+      }]
+  },
+  {
+    "name": "Ransomware Groups",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Ciciada 3301",
+        "type": "url",
+        "url": "http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion/"
+      },
+      {
+        "name": "Cloak",
+        "type": "url",
+        "url": "http://cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion/"
+      },
+      {
+        "name": "Daixin",
+        "type": "url",
+        "url": "http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion/ "
+      },
+      {
+        "name": "RansomCortex",
+        "type": "url",
+        "url": "http://gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion/"
+      },
+      {
+        "name": "Akira",
+        "type": "url",
+        "url": "https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/"
+      },
+      {
+        "name": "Darkvault",
+        "type": "url",
+        "url": "http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion/"
+      },
+      {
+        "name": "APT73",
+        "type": "url",
+        "url": "http://wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion/"
+      },
+      {
+        "name": "Everest",
+        "type": "url",
+        "url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/"
+      },
+      {
+        "name": "8Base",
+        "type": "url",
+        "url": "http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/"
+      }]
+  },
+  {
+    "name": "Intelligence News",
+    "type": "folder",
+    "children": [
+      {
+        "name": "YıldızCtiNews",
+        "type": "url",
+        "url": "https://web.telegram.org/k/#@yildizthreatnews"
+      },
+      {
+        "name": "RansomNews",
+        "type": "url",
+        "url": "https://web.telegram.org/k/#@ransomlook"
+      },
+      {
+        "name": "VenariByBetterCyber",
+        "type": "url",
+        "url": "https://web.telegram.org/k/#@Venari_By_BetterCyber"
+      },
+      {
+        "name": "RansomFeedNews",
+        "type": "url",
+        "url": "https://web.telegram.org/k/#@RansomFeedNews"
+      },
+      {
+        "name": "TheCyberThreatHunting",
+        "type": "url",
+        "url": "https://web.telegram.org/k/#@CyberThreatHunting"
+      }]
+  },
+  {
+    "name": "Telegram Hacking/Stealer/Log Channels",
+    "type": "folder",
+    "children": [
+      {
+        "name": "LeakDBMS",
+        "type": "url",
+        "url": "https://web.telegram.org/k/#@Leak_DBMS"
+      },
+      {
+        "name": "LB",
+        "type": "url",
+        "url": "https://t.me/leaked_databases"
+      },
+      {
+        "name": "LeakedSource",
+        "type": "url",
+        "url": "https://t.me/LeakedSource"
+      },
+      {
+        "name": "EasyLogs",
+        "type": "url",
+        "url": "https://web.telegram.org/k/#@easylogs1"
+      },
+      {
+        "name": "Suboxo",
+        "type": "url",
+        "url": "https://web.telegram.org/k/#@suboxo"
+      },
+      {
+        "name": "CyberLogs",
+        "type": "url",
+        "url": "http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion/"
+      },
+      {
+        "name": "DragonForce",
+        "type": "url",
+        "url": "https://web.telegram.org/k/#@dragonforceio"
+      },
+      {
+        "name": "NullLeak",
+        "type": "url",
+        "url": "https://t.me/NullLeak"
+      },
+      {
+        "name": "LearnExploit",
+        "type": "url",
+        "url": "https://t.me/LeaRNEXploIT"
+      }]
+  },
+  {
+    "name": "Tools",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Misp-Project",
+        "type": "url",
+        "url": "https://www.misp-project.org/"
+      },
+      {
+        "name": "Greynoise",
+        "type": "url",
+        "url": "https://www.greynoise.io/"
+      },
+      {
+        "name": "AlienVault",
+        "type": "url",
+        "url": "https://otx.alienvault.com/"
+      },
+      {
+        "name": "SilentPush",
+        "type": "url",
+        "url": "https://web.telegram.org/k/#@easylogs1"
+      },
+      {
+        "name": "CytoSpace",
+        "type": "url",
+        "url": "https://cytoscape.org/"
+      },
+      {
+        "name": "Graphistry",
+        "type": "url",
+        "url": "https://www.graphistry.com/"
+      },
+      {
+        "name": "RansomWare Tools (Github)",
+        "type": "url",
+        "url": "https://github.com/BushidoUK/Ransomware-Tool-Matrix"
+      },
+      {
+        "name": "ThreatIngestor (Github)",
+        "type": "url",
+        "url": "https://github.com/InQuest/ThreatIngestor"
+      },
+      {
+        "name": "ThreatDragon (Github)",
+        "type": "url",
+        "url": "https://github.com/OWASP/threat-dragon"
+      }]
+  },
+  {
+    "name": "Twitter",
+    "type": "folder",
+    "children": [
+      {
+        "name": "ThedFirReport",
+        "type": "url",
+        "url": "https://x.com/thedfirreport"
+      },
+      {
+        "name": "N4hualH",
+        "type": "url",
+        "url": "https://x.com/N4hualH"
+      },
+      {
+        "name": "Akaclandestine",
+        "type": "url",
+        "url": "https://x.com/akaclandestine"
+      },
+      {
+        "name": "Executemalware",
+        "type": "url",
+        "url": "https://x.com/executemalware"
+      },
+      {
+        "name": "Crep1x",
+        "type": "url",
+        "url": "https://x.com/crep1x"
+      },
+      {
+        "name": "Root0ne",
+        "type": "url",
+        "url": "https://x.com/Root0ne"
+      }]
+  }]
+}
