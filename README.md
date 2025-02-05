@@ -41,3 +41,21 @@ Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmı�
 | **Ghost** | Kullanıcıların belirli web sayfalarını anonim olarak arşivleyerek geri çağırmalarını sağlayan bir araçtır. |
 | **CacheView** | Google, Bing ve diğer arama motorlarının önbelleğe aldığı sayfaları geri getirir. |
 | **Webcitation** | Akademik ve araştırma amaçlı URL’leri arşivleyen bir sistemdir. |
+
+## Commercial Services (Ticari Hizmetler)
+
+Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmış, ücretli veya abonelik tabanlı çözümler sunan platformlardır. Bu hizmetler genellikle kurumsal düzeyde kullanılır ve gelişmiş tehdit tespiti, risk analizi, olay müdahalesi gibi konularda destek sağlar.
+
+###  Kullanım Alanları:
+- Kurumsal tehdit istihbaratı sağlamak  
+- Risk değerlendirme ve yönetim süreçlerini optimize etmek  
+- Siber saldırılara karşı önleyici stratejiler geliştirmek  
+- Dark web ve deep web üzerindeki tehditleri takip etmek  
+
+###  Öne Çıkan Araçlar:
+
+| Araç Adı         | Açıklama |
+|------------------|---------|
+| **Aon** | Kurumsal siber güvenlik çözümleri sunan, risk yönetimi ve sigorta hizmetleriyle tanınan bir şirkettir. Tehdit istihbaratı, veri koruma ve olay müdahale konularında destek sağlar. |
+| **HCL Software** | Güvenlik çözümleri, olay yönetimi ve tehdit istihbaratı konularında hizmet sunan bir ticari platformdur. Siber saldırılara karşı proaktif savunma mekanizmaları sağlar. |
+
