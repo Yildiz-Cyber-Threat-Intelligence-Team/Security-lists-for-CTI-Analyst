@@ -122,3 +122,23 @@ Defacements (web sitesi tahrifatı), kötü niyetli aktörler tarafından web si
 | **Defacer-id** | Özellikle Asya ve Avrupa bölgesinde gerçekleşen defacement saldırılarını izlemek için kullanılan bir veritabanıdır. |
 | **Attacker-work** | Hack grupları ve bireysel saldırganların gerçekleştirdiği defacement saldırılarını listeleyen bir kaynaktır. |
 | **Ownzyou** | Defaced siteleri ve saldırıların detaylarını raporlayan bir platformdur. Saldırganlar ve hedeflenen siteler hakkında bilgiler içerir. |
+
+##  Encode/Decode (Şifreleme ve Kod Çözme Araçları)
+
+Encode/Decode araçları, verileri farklı kodlama yöntemleriyle şifrelemek veya çözmek için kullanılan çevrimiçi ve yazılımsal çözümlerdir. Bu araçlar, güvenlik testlerinden veri dönüşümüne kadar geniş bir kullanım alanına sahiptir.
+
+### Kullanım Alanları:
+- **Şifreleme ve çözme işlemleri**  
+- **Güvenlik araştırmaları ve adli bilişim analizleri**  
+- **Metin, URL veya dosyaların belirli algoritmalarla kodlanması**  
+- **Hashleme ve veri bütünlüğü kontrolü**  
+
+###  Öne Çıkan Araçlar:
+
+| Araç Adı | Açıklama |
+|----------|---------|
+| **Dencode** | Çeşitli şifreleme ve kodlama algoritmalarını destekleyen, metin ve veri dönüşümleri yapmaya olanak tanıyan bir platformdur. |
+| **Cryptii (Caesar)** | Caesar şifreleme ve diğer klasik şifreleme yöntemlerini kullanarak veri kodlama ve çözme işlemleri yapan bir araçtır. |
+| **Cacheslut** | Web tarayıcı önbellekleriyle etkileşim sağlayan, URL tabanlı kodlama ve çözme araçları sunan bir platformdur. |
+| **Barcodes (QR)** | QR kodları ve diğer barkod türlerini oluşturmak ve çözmek için kullanılan bir araçtır. |
+| **Base64** | Metin ve veri kodlamada yaygın olarak kullanılan Base64 formatını şifrelemek ve çözmek için kullanılan bir platformdur. |
