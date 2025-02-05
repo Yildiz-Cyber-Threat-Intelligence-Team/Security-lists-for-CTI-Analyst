@@ -23,16 +23,16 @@ Bu proje, Siber Tehdit İstihbaratı (CTI - Cyber Threat Intelligence) kapsamın
 
 
 
-# Archives (Arşiv Kaynakları)
+## Archives (Arşiv Kaynakları)
 Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmış veya silinmiş verileri geri getirmek için kullanılan hizmetlerdir. Bu tür araçlar, tehdit istihbaratı analizinde kritik rol oynar çünkü saldırganların veya kötü niyetli içeriklerin önceki sürümlerini görmek, saldırı vektörlerini anlamak ve siber tehdit trendlerini takip etmek için gereklidir.
 
-## Kullanım Alanları:
+### Kullanım Alanları:
 - Silinmiş veya değiştirilen web sayfalarını incelemek
 - Geçmiş tehdit raporlarını geri yüklemek
 - Siber suçluların eski faaliyetlerini analiz etmek
 - Zaman içinde güvenlik açıklarının nasıl değiştiğini görmek
 
-  ## Öne Çıkan Araçlar
+  ### Öne Çıkan Araçlar
 
 | Araç Adı          | Açıklama |
 |-------------------|---------|
@@ -42,7 +42,7 @@ Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmı�
 | **CacheView** | Google, Bing ve diğer arama motorlarının önbelleğe aldığı sayfaları geri getirir. |
 | **Webcitation** | Akademik ve araştırma amaçlı URL’leri arşivleyen bir sistemdir. |
 
-# Commercial Services (Ticari Hizmetler)
+## Commercial Services (Ticari Hizmetler)
 
 Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmış, ücretli veya abonelik tabanlı çözümler sunan platformlardır. Bu hizmetler genellikle kurumsal düzeyde kullanılır ve gelişmiş tehdit tespiti, risk analizi, olay müdahalesi gibi konularda destek sağlar.
 
@@ -59,17 +59,17 @@ Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmı�
 | **Aon** | Kurumsal siber güvenlik çözümleri sunan, risk yönetimi ve sigorta hizmetleriyle tanınan bir şirkettir. Tehdit istihbaratı, veri koruma ve olay müdahale konularında destek sağlar. |
 | **HCL Software** | Güvenlik çözümleri, olay yönetimi ve tehdit istihbaratı konularında hizmet sunan bir ticari platformdur. Siber saldırılara karşı proaktif savunma mekanizmaları sağlar. |
 
-#  Counterfeits (Sahtecilik Hizmetleri)
+##  Counterfeits (Sahtecilik Hizmetleri)
 
 Sahtecilik hizmetleri, dark web ve deep web üzerinde yasa dışı olarak sahte belgeler, kimlikler ve lisanslar sağlayan platformları içermektedir. Bu tür hizmetler genellikle dolandırıcılık faaliyetleri, sahte pasaport ve kimlik belgeleri oluşturma gibi yasadışı işlemler için kullanılır.
 
-##  Kullanım Alanları:
+###  Kullanım Alanları:
 - Sahte pasaport ve kimlik belgeleri oluşturma  
 - Sahte lisanslar ve sertifikalar sağlama  
 - Kimlik hırsızlığı ve dolandırıcılık faaliyetleri  
 - Dark web üzerinden yasa dışı işlemler  
 
-##  Öne Çıkan Platformlar:
+###  Öne Çıkan Platformlar:
 
 | Platform Adı         | Açıklama |
 |----------------------|---------|
@@ -80,17 +80,17 @@ Sahtecilik hizmetleri, dark web ve deep web üzerinde yasa dışı olarak sahte 
 | **Onion Identity Services** | Sahte kimlik ve pasaport düzenlemeleri yapan bir dark web hizmetidir. |
 
 
-# CVE Sites (Zafiyet Veritabanları)
+## CVE Sites (Zafiyet Veritabanları)
 
 CVE (Common Vulnerabilities and Exposures) siteleri, siber güvenlik açıklarını takip etmek ve analiz etmek için kullanılan platformlardır. Bu siteler, dünya çapında keşfedilen güvenlik açıklarını raporlar, belgeler ve sınıflandırır.
 
-##  Kullanım Alanları:
+###  Kullanım Alanları:
 - Yazılım ve donanım güvenlik açıklarını takip etmek  
 - Siber güvenlik araştırmalarını desteklemek  
 - Açıklara karşı yamaları ve çözümleri incelemek  
 - Güvenlik testleri ve pentest süreçlerini optimize etmek  
 
-##  Öne Çıkan Platformlar:
+###  Öne Çıkan Platformlar:
 
 | Platform Adı         | Açıklama |
 |----------------------|---------|
@@ -102,3 +102,23 @@ CVE (Common Vulnerabilities and Exposures) siteleri, siber güvenlik açıkları
 | **CVE-details** | CVE açıklarını detaylı istatistiklerle sunan bir platformdur. Açıklarla ilgili teknik veriler ve etkilenen yazılımlar hakkında bilgi verir. |
 | **Rapid7** | Siber güvenlik araştırmaları ve açık tespitinde kullanılan ticari bir platformdur. Metasploit çerçevesinin geliştiricisidir. |
 | **Vuldb** | Güvenlik açıkları hakkında topluluk destekli bilgiler sağlayan bir veritabanıdır. Açıkların etkileri ve çözümleri hakkında detaylı analizler sunar. |
+
+##  Defacements (Web Site Defacement Takip Sistemleri)
+
+Defacements (web sitesi tahrifatı), kötü niyetli aktörler tarafından web sitelerinin yetkisiz şekilde değiştirilmesiyle gerçekleşen saldırılardır. Bu saldırılar genellikle mesaj bırakma, siyasi veya hacktivist amaçlarla gerçekleştirilir. Aşağıdaki platformlar, dünya genelinde gerçekleşen defacement saldırılarını takip etmeye olanak sağlar.
+
+###  Kullanım Alanları:
+- Web sitesi saldırılarını izlemek ve analiz etmek  
+- Saldırgan grupların ve yöntemlerinin takibini yapmak  
+- Hedef alınan sektörleri ve bölgeleri belirlemek  
+- Siber güvenlik olay müdahalesi için erken uyarı sistemi sağlamak  
+
+###  Öne Çıkan Platformlar:
+
+| Platform Adı         | Açıklama |
+|----------------------|---------|
+| **Zone-h** | Dünya çapında web sitesi defacement saldırılarını kaydeden en popüler platformlardan biridir. |
+| **Mirror-h** | Defaced web sitelerinin arşivlerini tutan ve saldırganların kimliklerini takip eden bir servistir. |
+| **Defacer-id** | Özellikle Asya ve Avrupa bölgesinde gerçekleşen defacement saldırılarını izlemek için kullanılan bir veritabanıdır. |
+| **Attacker-work** | Hack grupları ve bireysel saldırganların gerçekleştirdiği defacement saldırılarını listeleyen bir kaynaktır. |
+| **Ownzyou** | Defaced siteleri ve saldırıların detaylarını raporlayan bir platformdur. Saldırganlar ve hedeflenen siteler hakkında bilgiler içerir. |
