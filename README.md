@@ -42,11 +42,11 @@ Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmı�
 Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmış, ücretli veya abonelik tabanlı çözümler sunan platformlardır. Bu hizmetler genellikle kurumsal düzeyde kullanılır ve gelişmiş tehdit tespiti, risk analizi, olay müdahalesi gibi konularda destek sağlar.Kurumsal tehdit istihbaratı sağlamak, risk değerlendirme ve yönetim süreçlerini optimize etmek, siber saldırılara karşı önleyici stratejiler geliştirmek ve  web ile deep web üzerindeki tehditleri takip etmek için kullanılabilir. 
 
 ###  Öne Çıkan Araçlar:
-
 | Araç Adı         | Açıklama |
 |------------------|---------|
-| **Aon** | Kurumsal siber güvenlik çözümleri sunan, risk yönetimi ve sigorta hizmetleriyle tanınan bir şirkettir. Tehdit istihbaratı, veri koruma ve olay müdahale konularında destek sağlar. |
-| **HCL Software** | Güvenlik çözümleri, olay yönetimi ve tehdit istihbaratı konularında hizmet sunan bir ticari platformdur. Siber saldırılara karşı proaktif savunma mekanizmaları sağlar. |
+| [**Aon**](https://www.aon.com/en/capabilities/cyber-resilience/cyber-threat-intelligence-services) | Kurumsal siber güvenlik çözümleri sunan, risk yönetimi ve sigorta hizmetleriyle tanınan bir şirkettir. Tehdit istihbaratı, veri koruma ve olay müdahale konularında destek sağlar. |
+| [**HCL Software**](https://www.hcl-software.com/appscan/software-supply-chain-security-whitepaper?utm_source=google&utm_medium=cpc&utm_campaign=Digital-Marketing_FY25_Global_AppScan_AppScan_Evergreen_search&utm_content=714277641784&utm_term=cyber%20security&gad_source=1&gclid=CjwKCAiA3ZC6BhBaEiwAeqfvyqsY3ZdgOO2vH8zsfwUy6sKhF0LKemv--GkgOBtUgGDlrI8yKmW9KBoC32gQAvD_BwE) | Güvenlik çözümleri, olay yönetimi ve tehdit istihbaratı konularında hizmet sunan bir ticari platformdur. Siber saldırılara karşı proaktif savunma mekanizmaları sağlar. |
+
 
 ##  Counterfeits (Sahtecilik Hizmetleri)
 
