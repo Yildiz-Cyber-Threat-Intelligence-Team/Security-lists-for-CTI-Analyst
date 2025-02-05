@@ -199,7 +199,7 @@ Siber tehdit istihbaratı, siber güvenlik topluluğu için kritik öneme sahip 
 
 | Kaynak Adı              | Açıklama                                               |
 |-------------------------|--------------------------------------------------------|
-| [**YıldızCtiNews**](https://web.telegram.org/k/#@yildizthreatnews)    | Türkiye merkezli siber güvenlik haberleri ve analizleri sunan bir kaynaktır. |
+| [**YıldızCtiNews**](https://web.telegram.org/k/#@yildizthreatnews)    | Siber güvenlik haberleri ve analizleri sunan bir kaynaktır. |
 | [**RansomNews**](https://web.telegram.org/k/#@ransomlook)       | Ransomware saldırıları, grup faaliyetleri ve fidye yazılımı haberlerini paylaşıyor. |
 | [**VenariByBetterCyber**](https://web.telegram.org/k/#@Venari_By_BetterCyber) | Siber tehdit istihbaratına dair en güncel ve güvenilir haberleri sunar. |
 | [**RansomFeedNews**](https://web.telegram.org/k/#@RansomFeedNews)   | Ransomware ve fidye yazılımı saldırılarıyla ilgili haber ve analiz içerikleri sağlar. |
