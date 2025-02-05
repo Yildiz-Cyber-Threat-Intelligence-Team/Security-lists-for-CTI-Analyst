@@ -59,3 +59,23 @@ Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmı�
 | **Aon** | Kurumsal siber güvenlik çözümleri sunan, risk yönetimi ve sigorta hizmetleriyle tanınan bir şirkettir. Tehdit istihbaratı, veri koruma ve olay müdahale konularında destek sağlar. |
 | **HCL Software** | Güvenlik çözümleri, olay yönetimi ve tehdit istihbaratı konularında hizmet sunan bir ticari platformdur. Siber saldırılara karşı proaktif savunma mekanizmaları sağlar. |
 
+#  Counterfeits (Sahtecilik Hizmetleri)
+
+Sahtecilik hizmetleri, dark web ve deep web üzerinde yasa dışı olarak sahte belgeler, kimlikler ve lisanslar sağlayan platformları içermektedir. Bu tür hizmetler genellikle dolandırıcılık faaliyetleri, sahte pasaport ve kimlik belgeleri oluşturma gibi yasadışı işlemler için kullanılır.
+
+## 🔍 Kullanım Alanları:
+- Sahte pasaport ve kimlik belgeleri oluşturma  
+- Sahte lisanslar ve sertifikalar sağlama  
+- Kimlik hırsızlığı ve dolandırıcılık faaliyetleri  
+- Dark web üzerinden yasa dışı işlemler  
+
+##  Öne Çıkan Platformlar:
+
+| Platform Adı         | Açıklama |
+|----------------------|---------|
+| **Nemesis** | Dark web üzerinde sahte kimlik ve pasaport hizmetleri sağlayan bir platformdur. |
+| **Onion License Services** | Sahte sürücü belgesi ve lisans hizmetleri sunan bir hizmettir. |
+| **Passport Services** | Sahte pasaportların üretimi ve satışı üzerine odaklanan bir dark web hizmetidir. |
+| **HiddenPass** | Sahte kimlik ve pasaport hizmetleri sağlayan bir başka platformdur. |
+| **Onion Identity Services** | Sahte kimlik ve pasaport düzenlemeleri yapan bir dark web hizmetidir. |
+
