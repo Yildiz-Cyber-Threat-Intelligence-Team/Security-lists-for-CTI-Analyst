@@ -287,6 +287,49 @@ Telegram, birçok hacking ve siber suç grubu tarafından kullanılan popüler b
 | **NullLeak**    | Çalınan hesap bilgileri ve log dosyalarıyla ilgili içerikler paylaşan bir kanal. |
 | **LeamExploit** | Exploitler ve hacking araçlarıyla ilgili bilgiler sunan bir kanal. |
 
+## Tools
 
+Siber güvenlik alanında kullanılan araçlar, tehdit istihbaratını toplamak, analiz etmek ve güvenlik açıklarını tespit etmek için kritik öneme sahiptir. Aşağıda, çeşitli tehdit izleme, sızma testi, ve siber güvenlik analiz araçlarının listesi bulunmaktadır.
+
+### Kullanım Alanları:
+- Tehdit istihbaratı toplama ve analiz yapma
+- Ağ güvenliği izleme ve saldırı tespiti
+- Ransomware ve diğer zararlı yazılımlara karşı savunma geliştirme
+- Tehdit analizi ve görselleştirme
+
+### Öne Çıkan Araçlar:
+
+| Araç Adı              | Açıklama                                           |
+|-----------------------|----------------------------------------------------|
+| **Misp-Project**       | Açık kaynaklı tehdit paylaşım platformu, siber güvenlik tehditlerini paylaşmak ve analiz etmek için kullanılır. |
+| **Greynoise**          | Gerçek zamanlı tehdit verisi sağlar ve ağ trafiğindeki anormallikleri tespit eder. |
+| **AlienVault**         | Tehdit istihbaratına dayalı güvenlik yönetim sistemi ve saldırı tespiti için kullanılan bir araçtır. |
+| **SilentPush**         | Ransomware saldırıları ve diğer kötü amaçlı yazılımları tespit etmek için kullanılan bir araçtır. |
+| **CytoSpace**          | Tehdit analizi ve görselleştirme aracı, ağda bulunan potansiyel tehditleri görsel olarak analiz etmeye yardımcı olur. |
+| **Graphistry**         | Görselleştirilmiş tehdit analizi ve ağ analizi yapabilen bir araçtır. |
+| **RansomWare Tools (GitHub)** | Ransomware saldırıları ve zararlı yazılımlara karşı çeşitli araçlar ve çözümler içeren GitHub reposudur. |
+| **ThreatIngestor (GitHub)** | Tehdit verilerini toplamak ve işlemek için kullanılan açık kaynaklı bir araçtır. |
+| **ThreatDragon (GitHub)** | Tehdit modelleme ve analiz için açık kaynaklı bir yazılımdır, tehditleri görselleştirmeye yardımcı olur. |
+
+## Twitter
+
+Twitter, siber güvenlik topluluğu tarafından tehdit istihbaratı ve siber güvenlik olaylarına dair bilgi paylaşımı için sıklıkla kullanılan bir platformdur. Aşağıda, Twitter üzerinde güvenlik, hacking ve malware konularında aktif olan bazı hesaplar yer almaktadır.
+
+### Kullanım Alanları:
+- Siber güvenlik tehditlerini izlemek
+- Hacking, malware ve güvenlik açıkları hakkında güncel bilgi almak
+- Siber güvenlik uzmanlarının ve gruplarının paylaşımlarını takip etmek
+- Tehdit avcılığı ve istihbarat toplamak
+
+### Öne Çıkan Twitter Hesapları:
+
+| Hesap Adı            | Açıklama                                           |
+|----------------------|----------------------------------------------------|
+| **ThedFirReport**     | Siber güvenlik ve tehdit istihbaratı raporları sunan bir hesap. |
+| **N4hualH**           | Hacking ve siber saldırılarla ilgili güncel bilgiler paylaşan bir hesap. |
+| **Akaclandestine**    | Malware ve güvenlik tehditleri hakkında paylaşımlar yapan bir hesap. |
+| **Executemalware**    | Malware keşifleri, güvenlik açıkları ve exploitler üzerine paylaşımlar yapan bir hesap. |
+| **Crep1x**            | Malware analizi ve siber güvenlik araştırmalarıyla ilgili içerikler sunan bir hesap. |
+| **Root0ne**           | Siber güvenlik, hacking ve malware analizleri konusunda paylaşım yapan bir hesap. |
 
 
