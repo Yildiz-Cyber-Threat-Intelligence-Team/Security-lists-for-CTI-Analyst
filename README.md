@@ -173,17 +173,18 @@ Ransomware, kullanıcıların dosyalarını şifreleyerek erişimlerini engelley
 
 ### Öne Çıkan Ransomware Grupları:
 
-| Grup Adı       | Açıklama                                           |
-|----------------|----------------------------------------------------|
-| **Ciciada 3301** | Sıklıkla gizlilik ve şifreleme araçlarıyla tanınan bir ransomware grubudur. |
-| **Cloak**       | Hedeflerine yönelik gelişmiş şifreleme teknikleri kullanarak fidye talep eden bir grup. |
-| **Daixin**      | Sağlık sektörü ve eğitim kurumlarına yönelik saldırılar düzenleyen bir grup. |
-| **RansomCortex**| Çeşitli endüstrilere yönelik fidye yazılımı saldırıları gerçekleştiren bir grup. |
-| **Akira**       | Hedeflerin verilerini şifreleyerek fidye talep eden bir grup. |
-| **Darkvault**   | Yüksek profilli hedeflere saldırarak fidye talepleri yapan bir grup. |
-| **APT73**       | Asya merkezli bir grup olup, hedeflerine yönelik ransomware ve diğer siber saldırılar düzenler. |
-| **Everest**     | Sağlık, finans ve teknoloji sektörlerine yönelik ransomware saldırıları yapan bir grup. |
-| **8Base**       | Ticari ve devlet kurumlarına yönelik fidye yazılımı saldırıları gerçekleştiren bir grup. |
+| Grup Adı           | Açıklama                                           |
+|--------------------|----------------------------------------------------|
+| [**Ciciada 3301**](http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion/) | Sıklıkla gizlilik ve şifreleme araçlarıyla tanınan bir ransomware grubudur. |
+| [**Cloak**](http://cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion/) | Hedeflerine yönelik gelişmiş şifreleme teknikleri kullanarak fidye talep eden bir grup. |
+| [**Daixin**](http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion/) | Sağlık sektörü ve eğitim kurumlarına yönelik saldırılar düzenleyen bir grup. |
+| [**RansomCortex**](http://gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion/) | Çeşitli endüstrilere yönelik fidye yazılımı saldırıları gerçekleştiren bir grup. |
+| [**Akira**](https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/) | Hedeflerin verilerini şifreleyerek fidye talep eden bir grup. |
+| [**Darkvault**](http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion/) | Yüksek profilli hedeflere saldırarak fidye talepleri yapan bir grup. |
+| [**APT73**](http://wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion/) | Asya merkezli bir grup olup, hedeflerine yönelik ransomware ve diğer siber saldırılar düzenler. |
+| [**Everest**](http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/) | Sağlık, finans ve teknoloji sektörlerine yönelik ransomware saldırıları yapan bir grup. |
+| [**8Base**](http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/) | Ticari ve devlet kurumlarına yönelik fidye yazılımı saldırıları gerçekleştiren bir grup. |
+
 
 ## Intelligence News
 
@@ -191,13 +192,14 @@ Siber tehdit istihbaratı, siber güvenlik topluluğu için kritik öneme sahip 
 
 ### Öne Çıkan Intelligence News Kaynakları:
 
-| Kaynak Adı           | Açıklama                                               |
-|----------------------|--------------------------------------------------------|
-| **YıldızCtiNews**    | Türkiye merkezli siber güvenlik haberleri ve analizleri sunan bir kaynaktır. |
-| **RansomNews**       | Ransomware saldırıları, grup faaliyetleri ve fidye yazılımı haberlerini paylaşıyor. |
-| **VenariByBetterCyber** | Siber tehdit istihbaratına dair en güncel ve güvenilir haberleri sunar. |
-| **RansomFeedNews**   | Ransomware ve fidye yazılımı saldırılarıyla ilgili haber ve analiz içerikleri sağlar. |
-| **TheCyberThreatHunting** | Tehdit avcılığı ve siber güvenlik araştırmalarına dair derinlemesine haberler sunar. |
+| Kaynak Adı              | Açıklama                                               |
+|-------------------------|--------------------------------------------------------|
+| [**YıldızCtiNews**](https://web.telegram.org/k/#@yildizthreatnews)    | Türkiye merkezli siber güvenlik haberleri ve analizleri sunan bir kaynaktır. |
+| [**RansomNews**](https://web.telegram.org/k/#@ransomlook)       | Ransomware saldırıları, grup faaliyetleri ve fidye yazılımı haberlerini paylaşıyor. |
+| [**VenariByBetterCyber**](https://web.telegram.org/k/#@Venari_By_BetterCyber) | Siber tehdit istihbaratına dair en güncel ve güvenilir haberleri sunar. |
+| [**RansomFeedNews**](https://web.telegram.org/k/#@RansomFeedNews)   | Ransomware ve fidye yazılımı saldırılarıyla ilgili haber ve analiz içerikleri sağlar. |
+| [**TheCyberThreatHunting**](https://web.telegram.org/k/#@CyberThreatHunting) | Tehdit avcılığı ve siber güvenlik araştırmalarına dair derinlemesine haberler sunar. |
+
 
 ## Telegram Hacking/Stealer/Log Channels
 
@@ -205,17 +207,18 @@ Telegram, birçok hacking ve siber suç grubu tarafından kullanılan popüler b
 
 ### Öne Çıkan Telegram Kanalları:
 
-| Kanal Adı       | Açıklama                                           |
-|-----------------|----------------------------------------------------|
-| **LeakDBMS**    | Veritabanı sızıntıları ve hesap bilgilerini paylaşan bir Telegram kanalı. |
-| **LB**          | Hacking araçları, şifreler ve diğer sızıntılarla ilgili içerikler paylaşan bir kanal. |
-| **LeakedSource**| Çeşitli veritabanı sızıntılarını ve hacklenmiş hesapları yayınlayan bir kanal. |
-| **EasyLogs**    | Hacking araçları ve çalınan log verileriyle ilgili içerikler sunan bir kanal. |
-| **Suboxo**      | Çeşitli log sızıntıları ve şifreler üzerinde paylaşımlar yapan bir Telegram kanalı. |
-| **CyberLogs**   | Hacking ve güvenlik açıklarıyla ilgili log verilerini paylaşan bir kanal. |
-| **DragonForce** | Siber güvenlik gruplarına ait bilgi ve log sızıntıları sağlayan bir kanal. |
-| **NullLeak**    | Çalınan hesap bilgileri ve log dosyalarıyla ilgili içerikler paylaşan bir kanal. |
-| **LeamExploit** | Exploitler ve hacking araçlarıyla ilgili bilgiler sunan bir kanal. |
+| Kanal Adı           | Açıklama                                           |
+|---------------------|----------------------------------------------------|
+| [**LeakDBMS**](https://web.telegram.org/k/#@Leak_DBMS)    | Veritabanı sızıntıları ve hesap bilgilerini paylaşan bir Telegram kanalı. |
+| [**LB**](https://t.me/leaked_databases)          | Hacking araçları, şifreler ve diğer sızıntılarla ilgili içerikler paylaşan bir kanal. |
+| [**LeakedSource**](https://t.me/LeakedSource) | Çeşitli veritabanı sızıntılarını ve hacklenmiş hesapları yayınlayan bir kanal. |
+| [**EasyLogs**](https://web.telegram.org/k/#@easylogs1)    | Hacking araçları ve çalınan log verileriyle ilgili içerikler sunan bir kanal. |
+| [**Suboxo**](https://web.telegram.org/k/#@suboxo)      | Çeşitli log sızıntıları ve şifreler üzerinde paylaşımlar yapan bir Telegram kanalı. |
+| [**CyberLogs**](http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion/)   | Hacking ve güvenlik açıklarıyla ilgili log verilerini paylaşan bir kanal. |
+| [**DragonForce**](https://web.telegram.org/k/#@dragonforceio) | Siber güvenlik gruplarına ait bilgi ve log sızıntıları sağlayan bir kanal. |
+| [**NullLeak**](https://t.me/NullLeak)    | Çalınan hesap bilgileri ve log dosyalarıyla ilgili içerikler paylaşan bir kanal. |
+| [**LeamExploit**](https://t.me/LeaRNEXploIT) | Exploitler ve hacking araçlarıyla ilgili bilgiler sunan bir kanal. |
+
 
 ## Tools
 
