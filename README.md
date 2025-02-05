@@ -135,6 +135,9 @@ Deep Web, genel arama motorları tarafından indekslenmeyen ancak yasal ve özel
 |----------|---------|  
 | **Forums** | Deep Web üzerinde yer alan, genellikle kayıt veya özel erişim gerektiren tartışma platformlarıdır. Kullanıcılar siber güvenlik, hacking, tehdit istihbaratı ve çeşitli teknik konular hakkında bilgi paylaşır. Bu forumlar bazen kapalı topluluklara özel olabilir. |  
 
+![4](https://github.com/user-attachments/assets/bc5551b9-6270-42b6-88c7-7905cebb24b0)
+
+
 ## IP / Geolocation  
 
 IP ve konum belirleme araçları, internet üzerindeki cihazların IP adreslerini analiz ederek coğrafi konumlarını tespit etmeye yardımcı olur. Siber güvenlik uzmanları, tehdit istihbaratı analistleri ve ağ yöneticileri tarafından sıklıkla kullanılır. Tehdit aktörlerinin IP analizini yapmak, şüpheli ağ etkinliklerini izlemek, IP adresi üzerinden coğrafi konum tespiti yapmak ve VPN veya proxy kullanımını belirlemek için kullanılabilir. 
