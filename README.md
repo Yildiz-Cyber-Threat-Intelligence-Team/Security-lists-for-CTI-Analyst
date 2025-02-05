@@ -42,7 +42,7 @@ Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmı�
 | **CacheView** | Google, Bing ve diğer arama motorlarının önbelleğe aldığı sayfaları geri getirir. |
 | **Webcitation** | Akademik ve araştırma amaçlı URL’leri arşivleyen bir sistemdir. |
 
-## Commercial Services (Ticari Hizmetler)
+# Commercial Services (Ticari Hizmetler)
 
 Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmış, ücretli veya abonelik tabanlı çözümler sunan platformlardır. Bu hizmetler genellikle kurumsal düzeyde kullanılır ve gelişmiş tehdit tespiti, risk analizi, olay müdahalesi gibi konularda destek sağlar.
 
