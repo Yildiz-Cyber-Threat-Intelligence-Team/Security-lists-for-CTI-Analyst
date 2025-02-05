@@ -24,13 +24,7 @@ Bu proje, Siber Tehdit İstihbaratı (CTI - Cyber Threat Intelligence) kapsamın
 
 
 ## Archives (Arşiv Kaynakları)
-Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmış veya silinmiş verileri geri getirmek için kullanılan hizmetlerdir. Bu tür araçlar, tehdit istihbaratı analizinde kritik rol oynar çünkü saldırganların veya kötü niyetli içeriklerin önceki sürümlerini görmek, saldırı vektörlerini anlamak ve siber tehdit trendlerini takip etmek için gereklidir.
-
-### Kullanım Alanları:
-- Silinmiş veya değiştirilen web sayfalarını incelemek
-- Geçmiş tehdit raporlarını geri yüklemek
-- Siber suçluların eski faaliyetlerini analiz etmek
-- Zaman içinde güvenlik açıklarının nasıl değiştiğini görmek
+Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmış veya silinmiş verileri geri getirmek için kullanılan hizmetlerdir. Bu tür araçlar, tehdit istihbaratı analizinde kritik rol oynar çünkü saldırganların veya kötü niyetli içeriklerin önceki sürümlerini görmek, saldırı vektörlerini anlamak ve siber tehdit trendlerini takip etmek için gereklidir.Silinmiş veya değiştirilen web sayfalarını incelemek, geçmiş tehdit raporlarını geri yüklemek, siber suçluların eski faaliyetlerini analiz etmek ve zaman içinde güvenlik açıklarının nasıl değiştiğini görmek için kullanılabilir.
 
   ### Öne Çıkan Araçlar
 
@@ -44,13 +38,7 @@ Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmı�
 
 ## Commercial Services (Ticari Hizmetler)
 
-Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmış, ücretli veya abonelik tabanlı çözümler sunan platformlardır. Bu hizmetler genellikle kurumsal düzeyde kullanılır ve gelişmiş tehdit tespiti, risk analizi, olay müdahalesi gibi konularda destek sağlar.
-
-###  Kullanım Alanları:
-- Kurumsal tehdit istihbaratı sağlamak  
-- Risk değerlendirme ve yönetim süreçlerini optimize etmek  
-- Siber saldırılara karşı önleyici stratejiler geliştirmek  
-- Dark web ve deep web üzerindeki tehditleri takip etmek  
+Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmış, ücretli veya abonelik tabanlı çözümler sunan platformlardır. Bu hizmetler genellikle kurumsal düzeyde kullanılır ve gelişmiş tehdit tespiti, risk analizi, olay müdahalesi gibi konularda destek sağlar.Kurumsal tehdit istihbaratı sağlamak, risk değerlendirme ve yönetim süreçlerini optimize etmek, siber saldırılara karşı önleyici stratejiler geliştirmek ve dark web ile deep web üzerindeki tehditleri takip etmek için kullanılabilir. 
 
 ###  Öne Çıkan Araçlar:
 
@@ -61,13 +49,7 @@ Ticari hizmetler, siber güvenlik ve tehdit istihbaratı alanında uzmanlaşmı�
 
 ##  Counterfeits (Sahtecilik Hizmetleri)
 
-Sahtecilik hizmetleri, dark web ve deep web üzerinde yasa dışı olarak sahte belgeler, kimlikler ve lisanslar sağlayan platformları içermektedir. Bu tür hizmetler genellikle dolandırıcılık faaliyetleri, sahte pasaport ve kimlik belgeleri oluşturma gibi yasadışı işlemler için kullanılır.
-
-###  Kullanım Alanları:
-- Sahte pasaport ve kimlik belgeleri oluşturma  
-- Sahte lisanslar ve sertifikalar sağlama  
-- Kimlik hırsızlığı ve dolandırıcılık faaliyetleri  
-- Dark web üzerinden yasa dışı işlemler  
+Sahtecilik hizmetleri, dark web ve deep web üzerinde yasa dışı olarak sahte belgeler, kimlikler ve lisanslar sağlayan platformları içermektedir. Bu tür hizmetler genellikle dolandırıcılık faaliyetleri, sahte pasaport ve kimlik belgeleri oluşturma gibi yasadışı işlemler için kullanılır.Sahte pasaport ve kimlik belgeleri oluşturma, sahte lisanslar ve sertifikalar sağlama, kimlik hırsızlığı ve dolandırıcılık faaliyetleri gerçekleştirme, ve dark web üzerinden yasa dışı işlemler yapma gibi faaliyetlerde kullanılabilir.  
 
 ###  Öne Çıkan Platformlar:
 
@@ -82,13 +64,7 @@ Sahtecilik hizmetleri, dark web ve deep web üzerinde yasa dışı olarak sahte 
 
 ## CVE Sites (Zafiyet Veritabanları)
 
-CVE (Common Vulnerabilities and Exposures) siteleri, siber güvenlik açıklarını takip etmek ve analiz etmek için kullanılan platformlardır. Bu siteler, dünya çapında keşfedilen güvenlik açıklarını raporlar, belgeler ve sınıflandırır.
-
-###  Kullanım Alanları:
-- Yazılım ve donanım güvenlik açıklarını takip etmek  
-- Siber güvenlik araştırmalarını desteklemek  
-- Açıklara karşı yamaları ve çözümleri incelemek  
-- Güvenlik testleri ve pentest süreçlerini optimize etmek  
+CVE (Common Vulnerabilities and Exposures) siteleri, siber güvenlik açıklarını takip etmek ve analiz etmek için kullanılan platformlardır. Bu siteler, dünya çapında keşfedilen güvenlik açıklarını raporlar, belgeler ve sınıflandırır. Yazılım ve donanım güvenlik açıklarını takip etmek, siber güvenlik araştırmalarını desteklemek, açıklara karşı yamaları ve çözümleri incelemek, ve güvenlik testleri ile pentest süreçlerini optimize etmek için kullanılabilir.
 
 ###  Öne Çıkan Platformlar:
 
@@ -105,13 +81,7 @@ CVE (Common Vulnerabilities and Exposures) siteleri, siber güvenlik açıkları
 
 ##  Defacements (Web Site Defacement Takip Sistemleri)
 
-Defacements (web sitesi tahrifatı), kötü niyetli aktörler tarafından web sitelerinin yetkisiz şekilde değiştirilmesiyle gerçekleşen saldırılardır. Bu saldırılar genellikle mesaj bırakma, siyasi veya hacktivist amaçlarla gerçekleştirilir. Aşağıdaki platformlar, dünya genelinde gerçekleşen defacement saldırılarını takip etmeye olanak sağlar.
-
-###  Kullanım Alanları:
-- Web sitesi saldırılarını izlemek ve analiz etmek  
-- Saldırgan grupların ve yöntemlerinin takibini yapmak  
-- Hedef alınan sektörleri ve bölgeleri belirlemek  
-- Siber güvenlik olay müdahalesi için erken uyarı sistemi sağlamak  
+Defacements (web sitesi tahrifatı), kötü niyetli aktörler tarafından web sitelerinin yetkisiz şekilde değiştirilmesiyle gerçekleşen saldırılardır. Bu saldırılar genellikle mesaj bırakma, siyasi veya hacktivist amaçlarla gerçekleştirilir. Aşağıdaki platformlar, dünya genelinde gerçekleşen defacement saldırılarını takip etmeye olanak sağlar. Web sitesi saldırılarını izlemek ve analiz etmek, saldırgan grupların ve yöntemlerinin takibini yapmak, hedef alınan sektörleri ve bölgeleri belirlemek, ve siber güvenlik olay müdahalesi için erken uyarı sistemi sağlamak amacıyla kullanılabilir.  
 
 ###  Öne Çıkan Platformlar:
 
@@ -125,13 +95,7 @@ Defacements (web sitesi tahrifatı), kötü niyetli aktörler tarafından web si
 
 ##  Encode/Decode (Şifreleme ve Kod Çözme Araçları)
 
-Encode/Decode araçları, verileri farklı kodlama yöntemleriyle şifrelemek veya çözmek için kullanılan çevrimiçi ve yazılımsal çözümlerdir. Bu araçlar, güvenlik testlerinden veri dönüşümüne kadar geniş bir kullanım alanına sahiptir.
-
-### Kullanım Alanları:
-- **Şifreleme ve çözme işlemleri**  
-- **Güvenlik araştırmaları ve adli bilişim analizleri**  
-- **Metin, URL veya dosyaların belirli algoritmalarla kodlanması**  
-- **Hashleme ve veri bütünlüğü kontrolü**  
+Encode/Decode araçları, verileri farklı kodlama yöntemleriyle şifrelemek veya çözmek için kullanılan çevrimiçi ve yazılımsal çözümlerdir. Bu araçlar, güvenlik testlerinden veri dönüşümüne kadar geniş bir kullanım alanına sahiptir. Şifreleme ve çözme işlemleri, güvenlik araştırmaları ve adli bilişim analizleri, metin, URL veya dosyaların belirli algoritmalarla kodlanması, ve hashleme ile veri bütünlüğü kontrolü yapmak için kullanılabilir.
 
 ###  Öne Çıkan Araçlar:
 
@@ -145,12 +109,7 @@ Encode/Decode araçları, verileri farklı kodlama yöntemleriyle şifrelemek ve
 
 ##  Dark Web  
 
-Dark Web, geleneksel arama motorları tarafından indekslenmeyen ve genellikle anonim ağlar üzerinden erişilebilen web sitelerinden oluşur. Bu platformlar, güvenlik araştırmacıları, gazeteciler ve istihbarat analistleri için önemli bilgiler içerebilir.  
-
-###  Kullanım Alanları:  
-- **Siber tehdit istihbaratı toplamak**  
-- **Dark Web üzerindeki güvenlik tehditlerini izlemek**  
-- **Anonim forumlar ve kaynaklardan bilgi edinmek**  
+Dark Web, geleneksel arama motorları tarafından indekslenmeyen ve genellikle anonim ağlar üzerinden erişilebilen web sitelerinden oluşur. Bu platformlar, güvenlik araştırmacıları, gazeteciler ve istihbarat analistleri için önemli bilgiler içerebilir. Siber tehdit istihbaratı toplamak, dark web üzerindeki güvenlik tehditlerini izlemek ve anonim forumlar ile kaynaklardan bilgi edinmek için kullanılabilir.
 
 ###  Öne Çıkan Araçlar:  
 
@@ -162,12 +121,7 @@ Dark Web, geleneksel arama motorları tarafından indekslenmeyen ve genellikle a
 
 ##  Deep Web  
 
-Deep Web, genel arama motorları tarafından indekslenmeyen ancak yasal ve özel bilgilere erişim sağlayan web içeriklerinden oluşur. Veritabanları, özel forumlar ve üyelik gerektiren web siteleri bu kategoriye girer.  
-
-###  Kullanım Alanları:  
-- **Özel araştırmalar ve veri analizi**  
-- **Siber tehditler ve güvenlik olayları hakkında bilgi edinme**  
-- **Deep Web üzerindeki özel forumları takip etme**  
+Deep Web, genel arama motorları tarafından indekslenmeyen ancak yasal ve özel bilgilere erişim sağlayan web içeriklerinden oluşur. Veritabanları, özel forumlar ve üyelik gerektiren web siteleri bu kategoriye girer. Özel araştırmalar ve veri analizi yapmak, siber tehditler ve güvenlik olayları hakkında bilgi edinmek, ve deep web üzerindeki özel forumları takip etmek için kullanılabilir.
 
 ###  Öne Çıkan Araçlar:  
 
@@ -177,13 +131,7 @@ Deep Web, genel arama motorları tarafından indekslenmeyen ancak yasal ve özel
 
 ## IP / Geolocation  
 
-IP ve konum belirleme araçları, internet üzerindeki cihazların IP adreslerini analiz ederek coğrafi konumlarını tespit etmeye yardımcı olur. Siber güvenlik uzmanları, tehdit istihbaratı analistleri ve ağ yöneticileri tarafından sıklıkla kullanılır.  
-
-### Kullanım Alanları:  
-- **Tehdit aktörlerinin IP analizini yapmak**  
-- **Şüpheli ağ etkinliklerini izlemek**  
-- **IP adresi üzerinden coğrafi konum tespiti yapmak**  
-- **VPN veya proxy kullanımını belirlemek**  
+IP ve konum belirleme araçları, internet üzerindeki cihazların IP adreslerini analiz ederek coğrafi konumlarını tespit etmeye yardımcı olur. Siber güvenlik uzmanları, tehdit istihbaratı analistleri ve ağ yöneticileri tarafından sıklıkla kullanılır. Tehdit aktörlerinin IP analizini yapmak, şüpheli ağ etkinliklerini izlemek, IP adresi üzerinden coğrafi konum tespiti yapmak ve VPN veya proxy kullanımını belirlemek için kullanılabilir. 
 
 ### Öne Çıkan Araçlar:  
 
@@ -199,13 +147,7 @@ IP ve konum belirleme araçları, internet üzerindeki cihazların IP adreslerin
 
 ## Phishing Araçları
 
-Phishing, kötü niyetli kişilerin sahte web siteleri ve e-postalarla kullanıcıları kandırarak kişisel bilgilerini çalmaya çalıştığı yaygın bir siber saldırı türüdür. Bu araçlar, phishing saldırılarını tespit etmek, analiz etmek ve önlemek için faydalıdır. Siber güvenlik uzmanları ve tehdit istihbaratı analistleri tarafından sıklıkla kullanılır.
-
-### Kullanım Alanları:
-- Phishing e-posta analizini yapmak
-- Şüpheli URL'leri tespit etmek
-- Gerçek zamanlı phishing tehditlerini izlemek
-- Phishing saldırılarına karşı savunma geliştirmek
+Phishing, kötü niyetli kişilerin sahte web siteleri ve e-postalarla kullanıcıları kandırarak kişisel bilgilerini çalmaya çalıştığı yaygın bir siber saldırı türüdür. Bu araçlar, phishing saldırılarını tespit etmek, analiz etmek ve önlemek için faydalıdır. Siber güvenlik uzmanları ve tehdit istihbaratı analistleri tarafından sıklıkla kullanılır. Phishing e-posta analizini yapmak, şüpheli URL'leri tespit etmek, gerçek zamanlı phishing tehditlerini izlemek ve phishing saldırılarına karşı savunma geliştirmek için kullanılabilir.
 
 ### Öne Çıkan Araçlar:
 
@@ -221,13 +163,7 @@ Phishing, kötü niyetli kişilerin sahte web siteleri ve e-postalarla kullanıc
 
 ## Ransomware Grupları
 
-Ransomware, kullanıcıların dosyalarını şifreleyerek erişimlerini engelleyen ve genellikle fidye talep eden bir siber saldırı türüdür. Aşağıda, dünyada bilinen ve aktif olan bazı ransomware gruplarının listesi ve kısa açıklamaları bulunmaktadır. Bu gruplar, siber güvenlik uzmanları tarafından izlenmektedir.
-
-### Kullanım Alanları:
-- Ransomware gruplarının faaliyetlerini izlemek
-- Grubu tespit etmek ve saldırıları analiz etmek
-- Fidye yazılımlarına karşı savunma geliştirmek
-- Tehdit istihbaratı sağlamak
+Ransomware, kullanıcıların dosyalarını şifreleyerek erişimlerini engelleyen ve genellikle fidye talep eden bir siber saldırı türüdür. Aşağıda, dünyada bilinen ve aktif olan bazı ransomware gruplarının listesi ve kısa açıklamaları bulunmaktadır. Bu gruplar, siber güvenlik uzmanları tarafından izlenmektedir. Ransomware gruplarının faaliyetlerini izlemek, grubu tespit etmek ve saldırıları analiz etmek, fidye yazılımlarına karşı savunma geliştirmek ve tehdit istihbaratı sağlamak için kullanılabilir.
 
 ### Öne Çıkan Ransomware Grupları:
 
@@ -245,13 +181,7 @@ Ransomware, kullanıcıların dosyalarını şifreleyerek erişimlerini engelley
 
 ## Intelligence News
 
-Siber tehdit istihbaratı, siber güvenlik topluluğu için kritik öneme sahip haber kaynakları sunar. Aşağıdaki liste, siber güvenlik, ransomware saldırıları ve diğer tehditlerle ilgili güncel haberler ve analizler sağlayan bazı önemli haber kaynaklarını içermektedir.
-
-### Kullanım Alanları:
-- Siber tehditler ve ransomware saldırıları hakkında güncel bilgi almak
-- Tehdit istihbaratına dayalı kararlar almak
-- Güvenlik açıkları ve yeni tehditlerle ilgili bilgi edinmek
-- Tehdit avcılığı ve müdahale stratejileri geliştirmek
+Siber tehdit istihbaratı, siber güvenlik topluluğu için kritik öneme sahip haber kaynakları sunar. Aşağıdaki liste, siber güvenlik, ransomware saldırıları ve diğer tehditlerle ilgili güncel haberler ve analizler sağlayan bazı önemli haber kaynaklarını içermektedir. Siber tehditler ve ransomware saldırıları hakkında güncel bilgi almak, tehdit istihbaratına dayalı kararlar almak, güvenlik açıkları ve yeni tehditlerle ilgili bilgi edinmek ve tehdit avcılığı ile müdahale stratejileri geliştirmek için kullanılabilir.
 
 ### Öne Çıkan Intelligence News Kaynakları:
 
@@ -265,13 +195,7 @@ Siber tehdit istihbaratı, siber güvenlik topluluğu için kritik öneme sahip 
 
 ## Telegram Hacking/Stealer/Log Channels
 
-Telegram, birçok hacking ve siber suç grubu tarafından kullanılan popüler bir iletişim platformudur. Aşağıdaki liste, Telegram üzerinde siber güvenlik tehditleri ve veritabanı ihlalleri ile ilgili paylaşımlar yapan bazı hacking, stealer ve log kanallarını içermektedir. Bu tür grupların faaliyetleri genellikle yasal olmayan veya etik dışıdır, bu nedenle sadece eğitim amaçlı incelenmesi önemlidir.
-
-### Kullanım Alanları:
-- Hacking, stealer ve log gruplarını takip etmek
-- Veritabanı ihlalleri, sızıntılar ve şüpheli aktiviteler hakkında bilgi edinmek
-- Siber suçluların faaliyetlerini anlamak ve analiz etmek
-- Tehdit istihbaratı toplamak
+Telegram, birçok hacking ve siber suç grubu tarafından kullanılan popüler bir iletişim platformudur. Aşağıdaki liste, Telegram üzerinde siber güvenlik tehditleri ve veritabanı ihlalleri ile ilgili paylaşımlar yapan bazı hacking, stealer ve log kanallarını içermektedir. Bu tür grupların faaliyetleri genellikle yasal olmayan veya etik dışıdır, bu nedenle sadece eğitim amaçlı incelenmesi önemlidir. Hacking, stealer ve log gruplarını takip etmek, veritabanı ihlalleri, sızıntılar ve şüpheli aktiviteler hakkında bilgi edinmek, siber suçluların faaliyetlerini anlamak ve analiz etmek, ve tehdit istihbaratı toplamak için kullanılabilir.
 
 ### Öne Çıkan Telegram Kanalları:
 
@@ -289,13 +213,7 @@ Telegram, birçok hacking ve siber suç grubu tarafından kullanılan popüler b
 
 ## Tools
 
-Siber güvenlik alanında kullanılan araçlar, tehdit istihbaratını toplamak, analiz etmek ve güvenlik açıklarını tespit etmek için kritik öneme sahiptir. Aşağıda, çeşitli tehdit izleme, sızma testi, ve siber güvenlik analiz araçlarının listesi bulunmaktadır.
-
-### Kullanım Alanları:
-- Tehdit istihbaratı toplama ve analiz yapma
-- Ağ güvenliği izleme ve saldırı tespiti
-- Ransomware ve diğer zararlı yazılımlara karşı savunma geliştirme
-- Tehdit analizi ve görselleştirme
+Siber güvenlik alanında kullanılan araçlar, tehdit istihbaratını toplamak, analiz etmek ve güvenlik açıklarını tespit etmek için kritik öneme sahiptir. Aşağıda, çeşitli tehdit izleme, sızma testi, ve siber güvenlik analiz araçlarının listesi bulunmaktadır. Tehdit istihbaratı toplama ve analiz yapma, ağ güvenliği izleme ve saldırı tespiti, ransomware ve diğer zararlı yazılımlara karşı savunma geliştirme, ve tehdit analizi ile görselleştirme yapmak için kullanılabilir.
 
 ### Öne Çıkan Araçlar:
 
@@ -313,13 +231,7 @@ Siber güvenlik alanında kullanılan araçlar, tehdit istihbaratını toplamak,
 
 ## Twitter
 
-Twitter, siber güvenlik topluluğu tarafından tehdit istihbaratı ve siber güvenlik olaylarına dair bilgi paylaşımı için sıklıkla kullanılan bir platformdur. Aşağıda, Twitter üzerinde güvenlik, hacking ve malware konularında aktif olan bazı hesaplar yer almaktadır.
-
-### Kullanım Alanları:
-- Siber güvenlik tehditlerini izlemek
-- Hacking, malware ve güvenlik açıkları hakkında güncel bilgi almak
-- Siber güvenlik uzmanlarının ve gruplarının paylaşımlarını takip etmek
-- Tehdit avcılığı ve istihbarat toplamak
+Twitter, siber güvenlik topluluğu tarafından tehdit istihbaratı ve siber güvenlik olaylarına dair bilgi paylaşımı için sıklıkla kullanılan bir platformdur. Aşağıda, Twitter üzerinde güvenlik, hacking ve malware konularında aktif olan bazı hesaplar yer almaktadır. Siber güvenlik tehditlerini izlemek, hacking, malware ve güvenlik açıkları hakkında güncel bilgi almak, siber güvenlik uzmanlarının ve gruplarının paylaşımlarını takip etmek, ve tehdit avcılığı ile istihbarat toplamak için kullanılabilir.
 
 ### Öne Çıkan Twitter Hesapları:
 
