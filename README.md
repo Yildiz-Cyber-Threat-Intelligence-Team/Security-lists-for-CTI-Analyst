@@ -219,4 +219,49 @@ Phishing, kötü niyetli kişilerin sahte web siteleri ve e-postalarla kullanıc
 | **CloudFlare** | Web güvenliği ve DDoS koruması sağlayan servis.    |
 | **IpQuality**  | IP tabanlı phishing ve dolandırıcılık veritabanı.  |
 
+## Ransomware Grupları
+
+Ransomware, kullanıcıların dosyalarını şifreleyerek erişimlerini engelleyen ve genellikle fidye talep eden bir siber saldırı türüdür. Aşağıda, dünyada bilinen ve aktif olan bazı ransomware gruplarının listesi ve kısa açıklamaları bulunmaktadır. Bu gruplar, siber güvenlik uzmanları tarafından izlenmektedir.
+
+### Kullanım Alanları:
+- Ransomware gruplarının faaliyetlerini izlemek
+- Grubu tespit etmek ve saldırıları analiz etmek
+- Fidye yazılımlarına karşı savunma geliştirmek
+- Tehdit istihbaratı sağlamak
+
+### Öne Çıkan Ransomware Grupları:
+
+| Grup Adı       | Açıklama                                           |
+|----------------|----------------------------------------------------|
+| **Ciciada 3301** | Sıklıkla gizlilik ve şifreleme araçlarıyla tanınan bir ransomware grubudur. |
+| **Cloak**       | Hedeflerine yönelik gelişmiş şifreleme teknikleri kullanarak fidye talep eden bir grup. |
+| **Daixin**      | Sağlık sektörü ve eğitim kurumlarına yönelik saldırılar düzenleyen bir grup. |
+| **RansomCortex**| Çeşitli endüstrilere yönelik fidye yazılımı saldırıları gerçekleştiren bir grup. |
+| **Akira**       | Hedeflerin verilerini şifreleyerek fidye talep eden bir grup. |
+| **Darkvault**   | Yüksek profilli hedeflere saldırarak fidye talepleri yapan bir grup. |
+| **APT73**       | Asya merkezli bir grup olup, hedeflerine yönelik ransomware ve diğer siber saldırılar düzenler. |
+| **Everest**     | Sağlık, finans ve teknoloji sektörlerine yönelik ransomware saldırıları yapan bir grup. |
+| **8Base**       | Ticari ve devlet kurumlarına yönelik fidye yazılımı saldırıları gerçekleştiren bir grup. |
+
+## Intelligence News
+
+Siber tehdit istihbaratı, siber güvenlik topluluğu için kritik öneme sahip haber kaynakları sunar. Aşağıdaki liste, siber güvenlik, ransomware saldırıları ve diğer tehditlerle ilgili güncel haberler ve analizler sağlayan bazı önemli haber kaynaklarını içermektedir.
+
+### Kullanım Alanları:
+- Siber tehditler ve ransomware saldırıları hakkında güncel bilgi almak
+- Tehdit istihbaratına dayalı kararlar almak
+- Güvenlik açıkları ve yeni tehditlerle ilgili bilgi edinmek
+- Tehdit avcılığı ve müdahale stratejileri geliştirmek
+
+### Öne Çıkan Intelligence News Kaynakları:
+
+| Kaynak Adı           | Açıklama                                               |
+|----------------------|--------------------------------------------------------|
+| **YıldızCtiNews**    | Türkiye merkezli siber güvenlik haberleri ve analizleri sunan bir kaynaktır. |
+| **RansomNews**       | Ransomware saldırıları, grup faaliyetleri ve fidye yazılımı haberlerini paylaşıyor. |
+| **VenariByBetterCyber** | Siber tehdit istihbaratına dair en güncel ve güvenilir haberleri sunar. |
+| **RansomFeedNews**   | Ransomware ve fidye yazılımı saldırılarıyla ilgili haber ve analiz içerikleri sağlar. |
+| **TheCyberThreatHunting** | Tehdit avcılığı ve siber güvenlik araştırmalarına dair derinlemesine haberler sunar. |
+
+
 
