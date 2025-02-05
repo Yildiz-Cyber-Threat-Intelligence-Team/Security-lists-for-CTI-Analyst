@@ -30,11 +30,12 @@ Arşiv kaynakları, geçmişte yayınlanmış ancak zamanla erişimi zorlaşmı�
 
 | Araç Adı          | Açıklama |
 |-------------------|---------|
-| **Wayback Machine** | Web sitelerinin geçmiş versiyonlarını arşivleyen en popüler internet arşivleme hizmetidir. |
-| **Megalodon** |  web ve deep web üzerindeki belirli sitelerin geçmiş sürümlerini saklayan bir arşivleme hizmetidir. |
-| **Ghost** | Kullanıcıların belirli web sayfalarını anonim olarak arşivleyerek geri çağırmalarını sağlayan bir araçtır. |
-| **CacheView** | Google, Bing ve diğer arama motorlarının önbelleğe aldığı sayfaları geri getirir. |
-| **Webcitation** | Akademik ve araştırma amaçlı URL’leri arşivleyen bir sistemdir. |
+| [**Wayback Machine**](https://archive.org/web) | Web sitelerinin geçmiş versiyonlarını arşivleyen en popüler internet arşivleme hizmetidir. |
+| [**Megalodon**](https://mega-don.com) | Web ve deep web üzerindeki belirli sitelerin geçmiş sürümlerini saklayan bir arşivleme hizmetidir. |
+| [**Ghost**](https://ghostarchive.org) | Kullanıcıların belirli web sayfalarını anonim olarak arşivleyerek geri çağırmalarını sağlayan bir araçtır. |
+| [**CacheView**](https://cacheview.com) | Google, Bing ve diğer arama motorlarının önbelleğe aldığı sayfaları geri getirir. |
+| [**Webcitation**](https://www.webcitation.org) | Akademik ve araştırma amaçlı URL’leri arşivleyen bir sistemdir. |
+
 
 ## Commercial Services (Ticari Hizmetler)
 
