@@ -71,14 +71,15 @@ CVE (Common Vulnerabilities and Exposures) siteleri, siber güvenlik açıkları
 
 | Platform Adı         | Açıklama |
 |----------------------|---------|
-| **CVE.org** | Resmi CVE (Common Vulnerabilities and Exposures) veritabanıdır. Güvenlik açıklarının standartlaştırılmış bir şekilde listelenmesini sağlar. |
-| **Exploit-db** | Açıklara karşı kullanılabilecek exploit kodlarını içeren geniş bir arşiv sunar. Penetrasyon testleri için önemli bir kaynaktır. |
-| **Vuln-cirl** | Güvenlik açıklarını sınıflandıran ve analiz eden bir platformdur. CVE raporlarını detaylı olarak sunar. |
-| **CVE-Search Github** | CVE verilerini hızlı bir şekilde sorgulamak için geliştirilmiş bir açık kaynak projedir. |
-| **Tenable** | Güvenlik açıklarını yönetmek ve sistemleri korumak için ticari çözümler sunan bir şirkettir. Nessus gibi popüler tarama araçlarıyla bilinir. |
-| **CVE-details** | CVE açıklarını detaylı istatistiklerle sunan bir platformdur. Açıklarla ilgili teknik veriler ve etkilenen yazılımlar hakkında bilgi verir. |
-| **Rapid7** | Siber güvenlik araştırmaları ve açık tespitinde kullanılan ticari bir platformdur. Metasploit çerçevesinin geliştiricisidir. |
-| **Vuldb** | Güvenlik açıkları hakkında topluluk destekli bilgiler sağlayan bir veritabanıdır. Açıkların etkileri ve çözümleri hakkında detaylı analizler sunar. |
+| [**CVE.org**](https://www.cve.org/) | Resmi CVE (Common Vulnerabilities and Exposures) veritabanıdır. Güvenlik açıklarının standartlaştırılmış bir şekilde listelenmesini sağlar. |
+| [**Exploit-db**](https://www.exploit-db.com/search) | Açıklara karşı kullanılabilecek exploit kodlarını içeren geniş bir arşiv sunar. Penetrasyon testleri için önemli bir kaynaktır. |
+| [**Vuln-cirl**](https://vulnerability.circl.lu/) | Güvenlik açıklarını sınıflandıran ve analiz eden bir platformdur. CVE raporlarını detaylı olarak sunar. |
+| [**CVE-Search Github**](https://github.com/cve-search/cve-search) | CVE verilerini hızlı bir şekilde sorgulamak için geliştirilmiş bir açık kaynak projedir. |
+| [**Tenable**](https://www.tenable.com/cve) | Güvenlik açıklarını yönetmek ve sistemleri korumak için ticari çözümler sunan bir şirkettir. Nessus gibi popüler tarama araçlarıyla bilinir. |
+| [**CVE-details**](https://www.cvedetails.com/vendor-search.php) | CVE açıklarını detaylı istatistiklerle sunan bir platformdur. Açıklarla ilgili teknik veriler ve etkilenen yazılımlar hakkında bilgi verir. |
+| [**Rapid7**](https://www.rapid7.com/db/) | Siber güvenlik araştırmaları ve açık tespitinde kullanılan ticari bir platformdur. Metasploit çerçevesinin geliştiricisidir. |
+| [**Vuldb**](https://vuldb.com/) | Güvenlik açıkları hakkında topluluk destekli bilgiler sağlayan bir veritabanıdır. Açıkların etkileri ve çözümleri hakkında detaylı analizler sunar. |
+
 
 ##  Defacements (Web Site Defacement Takip Sistemleri)
 
@@ -88,11 +89,11 @@ Defacements (web sitesi tahrifatı), kötü niyetli aktörler tarafından web si
 
 | Platform Adı         | Açıklama |
 |----------------------|---------|
-| **Zone-h** | Dünya çapında web sitesi defacement saldırılarını kaydeden en popüler platformlardan biridir. |
-| **Mirror-h** | Defaced web sitelerinin arşivlerini tutan ve saldırganların kimliklerini takip eden bir servistir. |
-| **Defacer-id** | Özellikle Asya ve Avrupa bölgesinde gerçekleşen defacement saldırılarını izlemek için kullanılan bir veritabanıdır. |
-| **Attacker-work** | Hack grupları ve bireysel saldırganların gerçekleştirdiği defacement saldırılarını listeleyen bir kaynaktır. |
-| **Ownzyou** | Defaced siteleri ve saldırıların detaylarını raporlayan bir platformdur. Saldırganlar ve hedeflenen siteler hakkında bilgiler içerir. |
+| [**Zone-h**](https://www.zone-h.org/) | Dünya çapında web sitesi defacement saldırılarını kaydeden en popüler platformlardan biridir. |
+| [**Mirror-h**](https://mirror-h.org/) | Defaced web sitelerinin arşivlerini tutan ve saldırganların kimliklerini takip eden bir servistir. |
+| [**Defacer-id**](https://defacer.id/) | Özellikle Asya ve Avrupa bölgesinde gerçekleşen defacement saldırılarını izlemek için kullanılan bir veritabanıdır. |
+| [**Attacker-work**](https://attacker.work/) | Hack grupları ve bireysel saldırganların gerçekleştirdiği defacement saldırılarını listeleyen bir kaynaktır. |
+| [**Ownzyou**](https://ownzyou.com/) | Defaced siteleri ve saldırıların detaylarını raporlayan bir platformdur. Saldırganlar ve hedeflenen siteler hakkında bilgiler içerir. |
 
 ##  Encode/Decode (Şifreleme ve Kod Çözme Araçları)
 
@@ -100,13 +101,13 @@ Encode/Decode araçları, verileri farklı kodlama yöntemleriyle şifrelemek ve
 
 ###  Öne Çıkan Araçlar:
 
-| Araç Adı | Açıklama |
-|----------|---------|
-| **Dencode** | Çeşitli şifreleme ve kodlama algoritmalarını destekleyen, metin ve veri dönüşümleri yapmaya olanak tanıyan bir platformdur. |
-| **Cryptii (Caesar)** | Caesar şifreleme ve diğer klasik şifreleme yöntemlerini kullanarak veri kodlama ve çözme işlemleri yapan bir araçtır. |
-| **Cacheslut** | Web tarayıcı önbellekleriyle etkileşim sağlayan, URL tabanlı kodlama ve çözme araçları sunan bir platformdur. |
-| **Barcodes (QR)** | QR kodları ve diğer barkod türlerini oluşturmak ve çözmek için kullanılan bir araçtır. |
-| **Base64** | Metin ve veri kodlamada yaygın olarak kullanılan Base64 formatını şifrelemek ve çözmek için kullanılan bir platformdur. |
+| Araç Adı              | Açıklama |
+|-----------------------|---------|
+| [**Dencode**](https://dencode.com/) | Çeşitli şifreleme ve kodlama algoritmalarını destekleyen, metin ve veri dönüşümleri yapmaya olanak tanıyan bir platformdur. |
+| [**Cryptii (Caesar)**](https://cryptii.com/pipes/caesar-cipher) | Caesar şifreleme ve diğer klasik şifreleme yöntemlerini kullanarak veri kodlama ve çözme işlemleri yapan bir araçtır. |
+| [**Cacheslut**](https://www.cachesleuth.com/multidecoder/) | Web tarayıcı önbellekleriyle etkileşim sağlayan, URL tabanlı kodlama ve çözme araçları sunan bir platformdur. |
+| [**Barcodes (QR)**](https://online-barcode-reader.inliteresearch.com/) | QR kodları ve diğer barkod türlerini oluşturmak ve çözmek için kullanılan bir araçtır. |
+| [**Base64**](https://www.base64encode.org/) | Metin ve veri kodlamada yaygın olarak kullanılan Base64 formatını şifrelemek ve çözmek için kullanılan bir platformdur. |
 
 ##  Dark Web  
 
@@ -139,16 +140,16 @@ Deep Web, genel arama motorları tarafından indekslenmeyen ancak yasal ve özel
 IP ve konum belirleme araçları, internet üzerindeki cihazların IP adreslerini analiz ederek coğrafi konumlarını tespit etmeye yardımcı olur. Siber güvenlik uzmanları, tehdit istihbaratı analistleri ve ağ yöneticileri tarafından sıklıkla kullanılır. Tehdit aktörlerinin IP analizini yapmak, şüpheli ağ etkinliklerini izlemek, IP adresi üzerinden coğrafi konum tespiti yapmak ve VPN veya proxy kullanımını belirlemek için kullanılabilir. 
 
 ### Öne Çıkan Araçlar:  
+| Araç Adı            | Açıklama |
+|---------------------|---------|
+| [**SurfShark**](https://surfshark.com/tr/what-is-my-ip) | VPN ve IP gizleme hizmeti sunarak çevrimiçi gizliliği artırır. |
+| [**Geolocation**](https://www.geolocation.com/) | IP adreslerinin fiziksel konumunu belirlemek için kullanılan genel bir coğrafi konumlandırma hizmetidir. |
+| [**LiveIPMap**](https://www.liveipmap.com/) | Dünya genelinde gerçek zamanlı IP adresi ve trafik izleme sağlayan bir araçtır. |
+| [**IpAddressMy**](https://www.ipaddress.my/) | IP adresinizi ve bağlantınızla ilgili temel bilgileri gösterir. |
+| [**WhatsMyIp**](https://www.whatismyip.com/) | IP adresinizi, internet servis sağlayıcınızı ve diğer ağ bilgilerini görüntüler. |
+| [**IpWhois**](https://ipwhois.io/) | Belirli bir IP adresinin kime ait olduğunu ve hangi ağda barındığını belirlemek için Whois sorgusu yapan bir araçtır. |
+| [**IpLocation.io**](https://iplocation.io/) | IP adreslerinden konum, ISP ve bağlantı detaylarını çıkarmaya yarayan bir analiz platformudur. |
 
-| Araç Adı | Açıklama |  
-|----------|---------|  
-| **SurfShark** | VPN ve IP gizleme hizmeti sunarak çevrimiçi gizliliği artırır. |  
-| **Geolocation** | IP adreslerinin fiziksel konumunu belirlemek için kullanılan genel bir coğrafi konumlandırma hizmetidir. |  
-| **LiveIPMap** | Dünya genelinde gerçek zamanlı IP adresi ve trafik izleme sağlayan bir araçtır. |  
-| **IpAddressMy** | IP adresinizi ve bağlantınızla ilgili temel bilgileri gösterir. |  
-| **WhatsMyIp** | IP adresinizi, internet servis sağlayıcınızı ve diğer ağ bilgilerini görüntüler. |  
-| **IpWhois** | Belirli bir IP adresinin kime ait olduğunu ve hangi ağda barındığını belirlemek için Whois sorgusu yapan bir araçtır. |  
-| **IpLocation.io** | IP adreslerinden konum, ISP ve bağlantı detaylarını çıkarmaya yarayan bir analiz platformudur. |  
 
 ## Phishing Araçları
 
@@ -156,15 +157,15 @@ Phishing, kötü niyetli kişilerin sahte web siteleri ve e-postalarla kullanıc
 
 ### Öne Çıkan Araçlar:
 
-| Araç Adı       | Açıklama                                           |
-|----------------|----------------------------------------------------|
-| **StalkPish**  | Phishing e-posta analizi ve URL güvenliği aracı.   |
-| **UrlDna**     | Phishing URL'lerini analiz etmek için kullanılan bir araç. |
-| **openPhish**  | Gerçek zamanlı phishing tehditlerini izler ve raporlar. |
-| **PhishingArmy**| Phishing saldırıları ve URL güvenliği veritabanı.  |
-| **PhishCheckMe**| Phishing URL'lerini tespit etmek için bir doğrulama aracı. |
-| **CloudFlare** | Web güvenliği ve DDoS koruması sağlayan servis.    |
-| **IpQuality**  | IP tabanlı phishing ve dolandırıcılık veritabanı.  |
+| Araç Adı            | Açıklama                                           |
+|---------------------|----------------------------------------------------|
+| [**StalkPish**](https://www.stalkphish.io/) | Phishing e-posta analizi ve URL güvenliği aracı.   |
+| [**UrlDna**](https://urldna.io/) | Phishing URL'lerini analiz etmek için kullanılan bir araç. |
+| [**openPhish**](https://openphish.com/) | Gerçek zamanlı phishing tehditlerini izler ve raporlar. |
+| [**PhishingArmy**](https://phishing.army/) | Phishing saldırıları ve URL güvenliği veritabanı.  |
+| [**PhishCheckMe**](https://phishcheck.me/) | Phishing URL'lerini tespit etmek için bir doğrulama aracı. |
+| [**CloudFlare**](https://radar.cloudflare.com/scan) | Web güvenliği ve DDoS koruması sağlayan servis.    |
+| [**IpQuality**](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner) | IP tabanlı phishing ve dolandırıcılık veritabanı.  |
 
 ## Ransomware Grupları
 
